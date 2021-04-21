@@ -1,0 +1,821 @@
+identify	message	emotion	category
+2018-Es-06254	@LeoneLGomezz_10 ... si quieren que este bien que me traten bien 😠	enfado	NONE
+2018-Es-06923	@_spessartine —Se levanta y empieza a correr. El enano corre tras él furioso.—	enfado	NONE
+2018-Es-04930	Odio mi actitud de nunca querer hacer nada, que me pregunten "hay que hacer esto?", decir "si" y seguir sin hacerlo, DALE BOLUDA HACE ALGO	enfado	NONE
+2018-Es-05660	Me dieron ganas de comer gomitas y por acá no venden😡😡😡	enfado	NONE
+2018-Es-04907	Tengo alto resentimiento con mi hermano últimamente	enfado	NONE
+2018-Es-02948	Estaba para un crobar furioso eh, dió mio. No veo la hora de dejar de laburar aca y hacer lo que quiero. No falta tanto ya	enfado	NONE
+2018-Es-00467	La Negra no esta para pelear, pero lleva como mil horas peleando, toda ofendida de la vida. Jajajajaja te amo.	enfado	NONE
+2018-Es-01577	Creía haber encontrado calma pero volví a enloquecer	enfado	NONE
+2018-Es-03786	A raiz de tanta ira causada a iglesia catolica apoyo a #LGTB por Lorena Castillo, Ulloa deberia devolver los millones incluso a nunciatura.	enfado	NONE
+2018-Es-05006	Déja de besar y dime la verdad —frunció el ceño como un niño pequeño enfadado sacándole de paso la lengua.	enfado	NONE
+2018-Es-05058	Por qué Tomás sigue a todas mis amigas? 	enfado	NONE
+2018-Es-04416	Cuando me enojo con una persona y me da mucha bronca lloro, puteo, me pego y tiro los pelos sola. *ssssssanita*	enfado	NONE
+2018-Es-05627	@OlamAmezkaita no solo a mi, varias personas recibimos esa respuesta y por el enojo se empezaron a mover las sillas. @anabeatrizglez1	enfado	NONE
+2018-Es-05623	les juro que estoy re mil indignada	enfado	NONE
+2018-Es-05984	Estoy en mi momento de rabia y odio contra el mundo. Los odio a todos.	enfado	NONE
+2018-Es-01365	@zacrobinsonff @maftdaddario Es de broma, jamás me enojo con él siempre nos estamos cogiendo en dm	enfado	NONE
+2018-Es-02011	@CamiRa24 Por que te enojo	enfado	NONE
+2018-Es-03514	Por un momento creí que no regresaríamos hoy de nuestro quick trip 😲 #miedo	enfado	NONE
+2018-Es-03576	@Eury66 @MrCotorro Si fuera mujer me sentiria ofendida pero como no entonces, muerete :v	enfado	NONE
+2018-Es-06173	@tioratero @ManuelaCarmena Insisto, para decir imbecilidades e insultar a la gente prueba en tu propia casa con tu propia madre, saludos	enfado	NONE
+2018-Es-06021	Yyy se enojo, como siempre.  La entiendo.  Si, ya se, siempre la cago🤦	enfado	NONE
+2018-Es-00740	@Lunaritos27 Mismamente,xo me jode q ganen,q impotencia 😠😠😠	enfado	NONE
+2018-Es-05821	Me pongo nervioso cuando tengo que tomarle la orden a mi crush.	enfado	NONE
+2018-Es-00579	Mi padre quiere que me meta a policía, y yo le dije que si y mi madre salió del más allá diciendo que no, que era peligroso +	enfado	NONE
+2018-Es-00814	Q resentido del orto	enfado	NONE
+2018-Es-01356	Me da rabia que te hable y me contestes bien pinche cortante.	enfado	NONE
+2018-Es-05854	Mañana me saco las ganas de gulear tortas fritas rellenas	enfado	NONE
+2018-Es-05500	No serviré a Dios como un obrero a la espera de mi salario. #sufismo #rabia #dios	enfado	NONE
+2018-Es-03863	@Lauragomez_M Esa canción me la dedico un ex y le cogi rabia :( Inmadura hasta el final de mis días.	enfado	NONE
+2018-Es-01728	La búsqueda del clic en el periodismo es un insulto a la inteligencia, y es reducir el derecho a la información de la gente.	enfado	NONE
+2018-Es-04190	Por que no se mete los mg en el culo 	enfado	NONE
+2018-Es-05962	@lore_rs96 No sé qué entiendes tu por amargado...🙄	enfado	NONE
+2018-Es-05085	@laSextaTV Y su hermana sin inmutarse x la utilización dl nombre d su hermano para trincar, enfadada con carmena y tragando con su pp	enfado	NONE
+2018-Es-02459	El filtro que tengo, terrible	enfado	NONE
+2018-Es-03538	@LechugaEdson01 @ndstrd Lechuga estoy muy indignada contigo ya no te hablarle bai	enfado	NONE
+2018-Es-04356	@alejmai26 No podía estaba trabajando 	enfado	NONE
+2018-Es-03401	@IyashiHitora 🌸 bien pero no quiero ofender a mes amigues que están mal así que estaré mal porq son un colectivo oprimide 🌸	enfado	NONE
+2018-Es-06948	@Alex_albert_1 hola Alex, que seas muy feliz en este miércoles, inténtalo o me enfado 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈	enfado	NONE
+2018-Es-01402	@xYoung_Hale Porque te has enfadado conmigo...	enfado	NONE
+2018-Es-05922	Me hubiera vuelto directamente a mi casa 😤	enfado	NONE
+2018-Es-03921	Nmms que estes 🙄	enfado	NONE
+2018-Es-00390	@Guaja7ely @lavecinarubia Si jajajajaja que suerte tienesxD esta gente está amargada	enfado	NONE
+2018-Es-00934	Cuando me dicen: “Te voy a decir algo pero no quiero que te enojes”, ya estoy enojada en un 99%. 🤦🏻‍♀️	enfado	NONE
+2018-Es-01587	@JuanGalt11 Tanta comparación sin sentido que apunta....?? a agravar una falta sobre otra... con el fin de??	enfado	NONE
+2018-Es-05634	@PPTenel13 Una q se dio cuenta q su pelea esta ahi.	enfado	NONE
+2018-Es-04540	Estoy frustrada 	enfado	NONE
+2018-Es-05546	Se me pasa el enojo con las pelotudeces que hace.	enfado	NONE
+2018-Es-00369	Resentido lo conoces?	enfado	NONE
+2018-Es-06557	yendome a dormir sin comer pq hay una cucaracha en la cocina #tristeza	enfado	NONE
+2018-Es-02609	@gxspardeleon Igual sigo enojada con vos	enfado	NONE
+2018-Es-01547	Necesito a mi amor para mimarme y esta enojado 😣	enfado	NONE
+2018-Es-05572	No estoy llorando, se me metió un Hybrid Theory en el ojo.	enfado	NONE
+2018-Es-03713	Ve bien por la vida y te ira bien en la mida... asi ei!	enfado	NONE
+2018-Es-00346	HIJO DE TU REPUTISIMA BOMBA PERRA ESTUPIDA BABOSA MADRE😡😡😡😡😡😡😡sin ofender a su mama no la conozco es solamente una expresión de odio así el	enfado	NONE
+2018-Es-02474	La concha de tu madre Brasilero de mierda 😡😣🔫	enfado	NONE
+2018-Es-06710	El CN Electoral,al poner un acto de votación simulado el mismo día del plebiscito puede provocar más confrontación.	enfado	NONE
+2018-Es-05329	¿Estoy enloquecido o enloqueceré? ¿Estoy en lo que he sido o en lo que seré?	enfado	NONE
+2018-Es-00188	Lo que no sabes es que cuando te vas a dormir, me enojo a propósito para que te quedes más tiempo hablando conmigo.	enfado	NONE
+2018-Es-01475	@MerliNetflix recién termine de ver la segunda temporada. Espero q pronto la compartan en la plataforma Ansiosa espero la tercera! ♡	enfado	NONE
+2018-Es-06188	[7/12 04:04 AM] Lore😍: Inventa algo para pasarle cap😂 pq se enojo😂 [7/12 04:06 AM] La Mas Puta: Lore mañana te paso a buscar no te olvides😒	enfado	NONE
+2018-Es-01799	#AndaYaChef#djdanymoreno ,estomago de oro....que bien se portan tus compis contigo...con lo bueno que esta el bocata de solomillo!!#venganza	enfado	NONE
+2018-Es-00169	" Casi te atropello porque yo estoy por ti sí sí sí " Joder ahora si me gusta alguien tengo que atropellarla?	enfado	NONE
+2018-Es-03782	@zarolivier No! Neta, cero amargada :(	enfado	NONE
+2018-Es-06591	Lpm q es este enojo?	enfado	NONE
+2018-Es-00968	ESTOY POR PERDER 5 FUEGOS, SI LOS PIERDO LOS ELIMINO D SNAP, DE RESENTIDA NOMAS	enfado	NONE
+2018-Es-05612	Este año no hay beca. Constitucional y Fiscal, tumbadas. Un disgusto.	enfado	NONE
+2018-Es-00198	Metele nitro viernes 	enfado	NONE
+2018-Es-02881	@As_TomasRoncero @diarioas Jajajaj.  La antimadridista disgustada	enfado	NONE
+2018-Es-02586	HOMBRES: a veces hacemos berrinche sólo para que nos consientan. Sépanlo	enfado	NONE
+2018-Es-00507	@DaiNu_ Decime quien fue así te fabrico un insulto piola para q le digas arre	enfado	NONE
+2018-Es-04885	"con esa cucharita y terrible boca no vas a terminar de comer" amorosa	enfado	NONE
+2018-Es-02505	Se enojo porque no sabia su nombre jajajajajajjaja	enfado	NONE
+2018-Es-04111	Castro ha sido un bocazas, le han engañado y ha provocado que el Sevilla haga el ridículo, pero los sinvergüenzas y la mala gente son otros.	enfado	NONE
+2018-Es-01448	@lavozdeinaki Si después del atropello te levantas pedir perdon	enfado	NONE
+2018-Es-03165	No puedo tener tanta bronca 😠😠😠	enfado	NONE
+2018-Es-02126	Cuando me enojo mucho pienso "que bueno que todavía no subi ninguna foto! No tengo que borrar nada"	enfado	NONE
+2018-Es-05437	¿Cuál pelea? Jajajajajaja para las chismosas se les acabo el entretenimiento porque hablaremos por interno, bye.	enfado	NONE
+2018-Es-05222	@AnyiInstituto Porque estas enojada? estas mas loca que una cabra y si te seguis hablando con esa vas a quedar peor jajaja	enfado	NONE
+2018-Es-05789	@EnelClientesCL lamentablemente no se notó el esfuerzo. Es más. Se notó todo lo contrario. Tarea para la casa.	enfado	NONE
+2018-Es-00652	Muy mal día para trabajar hoy, la impotencia y la rabia se mezcla con la tristeza, y todos con un mismo pensamiento: No es justo.	enfado	NONE
+2018-Es-00694	Me da rabia estar de vacaciones, cuándo podría dormir hasta la catalepsia y no aquí con insomnio 😑😑😑😑	enfado	NONE
+2018-Es-02489	Y a esta hora es cuando la respiración empieza a enloquecer	enfado	NONE
+2018-Es-00279	@renfrancis Oye we, recordé que en la firma tomé foto a Chris y tú "Guarda tu teléfono,porfa" Qué amargado, como tú los tienes todo el día😢✊	enfado	NONE
+2018-Es-03055	Nunca me voy a olvidar cuando me compre 5 paquetes de dortios en el día de los enamorados. Yo justo me había peleado jajajaaaj lpm lo amaba	enfado	NONE
+2018-Es-05938	@Darcher_7 @Nico_Medrano17 Me siento ofendida. Juega bonito comegatos	enfado	NONE
+2018-Es-02269	@matiduque1 Qué decís 	enfado	NONE
+2018-Es-06682	@izquierdotudela @agarzon Os duele la verdad y recurrís a la descalificación y al insulto. Nada nuevo.	enfado	NONE
+2018-Es-01621	Me caen de la verga las mujeres que por cualquier insulto ya se ofenden pinches morras delicadas	enfado	NONE
+2018-Es-01077	Peor de que te dejen en azúl, es que no te lean.   😡😡😡😡😡😡	enfado	NONE
+2018-Es-04381	#LaCompasionDeErkut este #Erkut de mierda boto de un aletazo a la sra #Rabia	enfado	NONE
+2018-Es-00333	@chacguate Ja! Eso provocaría una furia jajajajajajajaja no que me duerma	enfado	NONE
+2018-Es-02748	soy la amiga a la que no involucran en todas las salidas porque soy una amargada de mierda y lo triste es que ni siquiera me importa	enfado	NONE
+2018-Es-02619	No puedo decirle a nadie "dsp te aviso", pq al toque se enojan	enfado	NONE
+2018-Es-01194	Si conduces, no uses el celular… evita ser presa fácil de un delincuente o provocar un accidente vehicular. #TipsDeSeguridad	enfado	NONE
+2018-Es-05877	@veysandoval Si entiendo Vey, pero yo tuve acné y las que me preguntan eso son amigas que no cuidan su higiene, sin afán de ofender !!	enfado	NONE
+2018-Es-06416	Estoy más ofendido que alzate cantando.	enfado	NONE
+2018-Es-04354	Sigo ofendida porque subieran la temporada 8 de rupaul's drag race en español. 😷	enfado	NONE
+2018-Es-01053	Creo que en mi foto, por mi narizota, parece que estoy haciendo la britniseñal 🙁	enfado	NONE
+2018-Es-03693	Gente impuntual...pa' que nacieron ? 😠😡	enfado	NONE
+2018-Es-05054	@FloorRoddriguez Ya lo subi al colectivo , esperalo 	enfado	NONE
+2018-Es-00335	A estas horas me dan ganas de insultar gente	enfado	NONE
+2018-Es-02842	me hace bien saber que abel es un fiel oyente de la venganza será terrible, ven por qué lo amo?	enfado	NONE
+2018-Es-01415	Jeje se nota que estoy aburrida , le respondo todas las preguntas a @FrChinx	enfado	NONE
+2018-Es-00835	< trampa tan asquerosa!—  ¡No te atrevas a hacer eso nunca más!  —Exclamó enfurecido, propinándole una bofetada con fuerza en la mejilla, >	enfado	NONE
+2018-Es-06804	La comodidad no está peleada con el estilo. #moda #cambiodeimagen #inteligenciaemocional #modasostenible #mode #fashionemergency	enfado	NONE
+2018-Es-04027	Se siente horrible venir a clases y que tu profesor no llegue… por eso no venía la primer semana. 😭😡	enfado	NONE
+2018-Es-06169	Cada día estoy el doble de gorda😞😡🐷	enfado	NONE
+2018-Es-03116	Consecuencia, más de un lustro sin muertos por accidente de tráfico o atropello en el casco urbano.	enfado	NONE
+2018-Es-02421	@Rodriguez_Aixa5 Es que estoy re resentido boluda	enfado	NONE
+2018-Es-02570	Ali si tenía un anillo 😥💔 Oooh,Peri!!! 😱 Zafer... 😠#UnaEsperadaReconciliacion	enfado	NONE
+2018-Es-06296	@GarciaAller Anyway, lo siento, no la quise ofender, sólo que me dejé llevar por el tono inspirador de su artículo	enfado	NONE
+2018-Es-00328	@Grafocafe @programa_hoy Que bellos ojos. Espero no ofender..	enfado	NONE
+2018-Es-00685	@loisdf101 @RFPradas @peprm Menos insultar i mas aprender a respetar que haya gente que no piense como tu...	enfado	NONE
+2018-Es-00399	Si rozas minimamente cualquier juguete de mi perra se lo tomará como una provocación y no parará hasta que juegues durante horas con ella	enfado	NONE
+2018-Es-00301	@Mackerita El insultar a sus jefes tampoco ha ayudado mucho la verdad.	enfado	NONE
+2018-Es-02613	Atomizan en snap con el cosito ese😤	enfado	NONE
+2018-Es-04040	@BorjaBarba Es en plan guerra preventiva: me siento ofendido de manera preventiva. Luego ya miró algo más, pero lo 1º ofendido y ladrando	enfado	NONE
+2018-Es-02331	La #klebsiella es una bacteria Gram (-), que según su especie pueden provocar infecciones urinaria, septicemia, rinitis atrofica.	enfado	NONE
+2018-Es-01136	@babynlf Fue inevitable el chasquido de lengua que resultó posterior a la sonrisa ajena, y si bien aún no se deshacía del de rubiales, la >	enfado	NONE
+2018-Es-04680	"No es labor de ONGs salvar a refugiados sino de GOBIERNO" recuerda @adrilastra a @sorayapp. Gracias por trasladar la indignación a Congreso	enfado	NONE
+2018-Es-04119	Definitivamente me volví a enloquecer	enfado	NONE
+2018-Es-00754	Estoy enfadada y odio a todo el mundo,  por qué simplemente no me puede dar igual	enfado	NONE
+2018-Es-05677	@grmanzano @MarioSuarez4 mucha suerte 🍀 os ira genial! Un abrazo chavales 😉	enfado	NONE
+2018-Es-03416	mañana podria volver a mi casa, y para que se me vaya lo ofendida pido la plata para el anillo..	enfado	NONE
+2018-Es-05171	Cuando pierde tu equipo tu enojo ¿Cuánto tiempo dura? ¿Cuál partido recuerdas más y que hiciste en ese momento? (Casa o estadio)	enfado	NONE
+2018-Es-05799	@Juanmazza12 Un amigo es una luz brillando en la oscuridad🎵	enfado	NONE
+2018-Es-03424	@35PAIS @pameaguirre1 @35PAIS ES UNA PENA,la gente y me incluyo!,esta enfadada con LENIN,creemos en AP,somos AP , pero UDs pueden CAMBIARLO!	enfado	NONE
+2018-Es-05271	El Teempo es el enemigokindestructible, puede ser vencido en mas de mil batallas, pero en la ultima permanecera implacable.	enfado	NONE
+2018-Es-00152	@HelenaWay_B - Vuelve a dejar escapar una especie de gruñido satisfecho sobre sus labios.-	enfado	NONE
+2018-Es-04625	¿Y el Mega drenaje? ¿Alguien sabe si existe? 🤔😏	enfado	NONE
+2018-Es-05974	que es eso de enojarse porque no les dan bola tan resentido vas a ser la puta que te pario MIRAME CUANDO TE HABLO	enfado	NONE
+2018-Es-06427	Me voy a dormir siesta porque me aburro y nadie quiere hacer nada ni nadie me habla porque son todos re aburridos y ortivos #enojada	enfado	NONE
+2018-Es-05751	y empieza su venganza cuando se gana tu confianza 🎶	enfado	NONE
+2018-Es-00557	@jandracs Que no estoy enfadada ...	enfado	NONE
+2018-Es-06147	@BaezAlexis2 Cobarde pega jugadores	enfado	NONE
+2018-Es-06257	OFENDIDO MANO ESO ES MUCHO EL NEGRO HIJUEPUTA	enfado	NONE
+2018-Es-03492	Todos los días me enojo o tengo bronca por algo, ya es rutina	enfado	NONE
+2018-Es-05837	#youtube va de culo!! Me imagino que no soy el unico yuhuu😡😡 #enfado @dewrongta @TheBraxXter	enfado	NONE
+2018-Es-00353	Mi hermana. -encima salió re amargo +el que salio amargo? -el vómito   JAJAJAJAJAJAJAJA cerrrrrrrrda	enfado	NONE
+2018-Es-00469	Mi padre me va a apagar el wifi y estoy #enfadada	enfado	NONE
+2018-Es-04419	@diegontar Que recuerdos con esos supersonics, Shawn kemp, detlef schrempf... Una pena su desaparición por los okc...	enfado	NONE
+2018-Es-00308	Pinche gente amargada y cortante me caga	enfado	NONE
+2018-Es-04285	No los arrobé porque me siguen y 	enfado	NONE
+2018-Es-00489	Me hace envenenar esto sinceramente	enfado	NONE
+2018-Es-05917	Tras que uno les hace los favores, se quejan que cojones 	enfado	NONE
+2018-Es-03751	@caterinabarbi resentimiento al palo	enfado	NONE
+2018-Es-05832	@CallMeCucho Me clavaste el visto. INDIGNADA	enfado	NONE
+2018-Es-04893	Sigo indignada con esa nota de mierda y se pueden ir todos a la re puta que los pario forros	enfado	NONE
+2018-Es-04174	@Clon_39 Es que le robaron la yegua por eso quedo amargado el hombre.	enfado	NONE
+2018-Es-01191	@RondonCNE Esto del simulacro es una clara provocación más por parte del gobierno a la violencia e intolerancia. Total apoyo a @RondonCNE	enfado	NONE
+2018-Es-06921	Estoy de amargado.	enfado	NONE
+2018-Es-06208	La rabia y  rencor no llevan a nada, simplemente destruyen el alma y el corazón.	enfado	NONE
+2018-Es-03373	Siempre que me quiero bañar entran al baño 	enfado	NONE
+2018-Es-00869	@tohosjinki enojo* ya esta dicho xd oka	enfado	NONE
+2018-Es-06778	Que basura de padre me toco	enfado	NONE
+2018-Es-05830	Miércoles 4:45 am Pedro se hizo pis en mi cama. Alguien lo quiere adoptar? Estoy indignada 😒	enfado	NONE
+2018-Es-03530	Está más hermoso que nunca.. 😍 Eso me da más indignación ahre	enfado	NONE
+2018-Es-01453	Todo mal Lpm 	enfado	NONE
+2018-Es-05030	Por qué @cafesproutmx cierra tan temprano hoy?! #enojado	enfado	NONE
+2018-Es-05496	Ayer me quede viendo presentaciones de En la ciudad de la furia hasta las 5 de la mañana. Si, todas. hoy toca tele-ka	enfado	NONE
+2018-Es-00172	@vegetta777 Hola Samu, como estas? Ya se te paso el enojo?	enfado	NONE
+2018-Es-03486	" la Ciudad de la furia" me recuerda a ti siempre 😌😳	enfado	NONE
+2018-Es-00232	Mi madre me acaba de llamar amargada.	enfado	NONE
+2018-Es-06634	@xpcinful -se tapa la nariz tras la mordida quejosean y dandole la espalda enfadado- Malo	enfado	NONE
+2018-Es-05654	@noticierovv  ser lleno de odio y rabiosa y resentido que nunca llegará a presidente	enfado	NONE
+2018-Es-01687	Idiota ese insulto es nuevo genial	enfado	NONE
+2018-Es-06817	cuando me dicen "te voy a decir algo pero no te enojes" automáticamente me enojo un 98%	enfado	NONE
+2018-Es-01252	@vaniicaceres07 y Posta estoy indignada	enfado	NONE
+2018-Es-04462	@MiicaLucero1 sabia que era un homosexual que se hacia el garchador furioso	enfado	NONE
+2018-Es-04795	@fxmiel Me quieres envenenar, ah...	enfado	NONE
+2018-Es-04227	no puedo ser feliz aunque a veces puedas pensarlo ya que lo bueno acaba dejando un sabor amargo..	enfado	NONE
+2018-Es-02452	Tan mierda sos para aprovecharte de la gente que es buena con vos? 😡	enfado	NONE
+2018-Es-03302	Como era de esperar los mayores disparates sobre el atropello provocado por el carril bici se dicen desde cuentas B con <20 seguidores	enfado	NONE
+2018-Es-00111	@FitbitSupport La solucion es tan desagradable como que no se hacen responsables de nada. Estoy muy disgustado. El unico perjudicado soy yo.	enfado	NONE
+2018-Es-02695	gracias por el vivo , me saco el enojo y todas las dudas que tenia @sergiocelli @PaulFerreyraOK	enfado	NONE
+2018-Es-02715	@WACO490 @PaulGoltieri @MonederoJC @PPopular Pdm denunciado insultar no es gratis	enfado	NONE
+2018-Es-04995	Indignada con este tema de mierda que no me sale	enfado	NONE
+2018-Es-06136	La inteligencia no está peleada con la belleza #modasostenible #moda #belleza #cambiodeimagen #parecenmachitos #femenina #inteligente	enfado	NONE
+2018-Es-04944	Luego dicen que si me enfado... Pero con razón!	enfado	NONE
+2018-Es-00497	@atwelljxlie @cressdwyer Jajaajajajajajaja si es una rayada lo simplificaran porque sino menos gente ira a verla	enfado	NONE
+2018-Es-06690	Es increíble Banfield da dos paso y ya está en el área de Boca y nosotros apena llegamos 	enfado	NONE
+2018-Es-00586	@DanteDirewolf dante, te voy a pegar y no hablo de cabezazos	enfado	NONE
+2018-Es-01725	Mi mama hace eso el jueves y no es mas mi mamá!! Lo juro 	enfado	NONE
+2018-Es-05610	@chupita13 Me da rabia tio	enfado	NONE
+2018-Es-02018	Eeh mi jefe es medio pedófilo, ya decía yo que por algo me daba desconfianza	enfado	NONE
+2018-Es-03573	@vegetta777 Alv nunca te escuche tan enojado D:	enfado	NONE
+2018-Es-00804	Fav y te insulto	enfado	NONE
+2018-Es-02968	😤 Puttttttto insomnio provocado! ...	enfado	NONE
+2018-Es-00304	Yo me enojo y automáticamente me caga todo	enfado	NONE
+2018-Es-06232	de estar enojada pase a llorar, de llorar pase a estar tentandome ahorre la bipolar	enfado	NONE
+2018-Es-02539	La gente amargada no mas no👎	enfado	NONE
+2018-Es-03300	Estoy viendo rápido y furioso 8, sería más emocionante si alguien no me hubiera contado el final 🙄	enfado	NONE
+2018-Es-02517	Jorge Luis Borges: Yo no hablo de venganzas ni perdones, el olvido es la única venganza y el único perdón.	enfado	NONE
+2018-Es-02882	cual es tu furia conmigo, no entiendo hahaha !! 💋😂	enfado	NONE
+2018-Es-06461	En mi siesta vespertina tuve una pesadilla con el-que-no-debe-ser-nombrado. Estuvo bastante heavy y desperté con algo de ira. Buena esa Tom.	enfado	NONE
+2018-Es-02031	estoy #frustada y #enfadada no me sale un ejercicio de matemáticas	enfado	NONE
+2018-Es-03378	@meprendorapidoo Dejen de ser cínicos, insultar a Robben es igual de vergonzoso que cuando se insultaba a Zidane, indios.	enfado	NONE
+2018-Es-00075	@Lalordz56 Nunca he estado enfado contigo, bebé 😶😒🤔	enfado	NONE
+2018-Es-00464	@SomeKralzo Vpc.... Holy shit yo hubiese explotado de la rabia como si fuera una mina de sulfúro con fosforito adentro.	enfado	NONE
+2018-Es-03515	Es fija, entra éste profesor y tengo ganas de pararme y retirarme de su clase, siento tanto tu mala energía que no la soporto 	enfado	NONE
+2018-Es-06559	¿Soy el único que abre los medicamentos SIEMPRE por el prospecto? #rabia	enfado	NONE
+2018-Es-04201	No importa cuan atenta seas cuán amable seas si lo único que notan es cuando estás enojada y mentando madres	enfado	NONE
+2018-Es-03774	@LeoDelPino7 Hola gordo estoy ofendido me cambiaste por la bola de pool estadounidense esa de tu foto	enfado	NONE
+2018-Es-01307	Me quiero descargar el sarahah ese y no tengo espacio	enfado	NONE
+2018-Es-00276	arroba florencia si me contestas no me enojo eh	enfado	NONE
+2018-Es-01517	Quién sigue diciendo "niño rata" como ofensa? 🙄😕😂	enfado	NONE
+2018-Es-06554	siempre q me enojo o me frustro termino llorando 🤷🤷	enfado	NONE
+2018-Es-06868	@bascois Actos de venganza contra un dictador y sus acólitos? Por supuesto.	enfado	NONE
+2018-Es-01114	Quiero estar contigo a pesar de las peleas, llantos, risas, enojos, besos, celos y berrinches; pero siempre juntos.	enfado	NONE
+2018-Es-01075	@pulsionparcial @vikidonda Donda digna hija d los q mataban c orgullo puro resentimiento y choreo algún día todos van a pagar todo se acaba	enfado	NONE
+2018-Es-03630	@CristianChucu26 No ni a palo 😤	enfado	NONE
+2018-Es-00224	@diariocorreo Entonces no hay disculpas es venganza. Por lo general las personas de hoy en dia toman la ley como acto de venganza....	enfado	NONE
+2018-Es-01087	Rabia Tv  #TRTyeİsimÖnerim	enfado	NONE
+2018-Es-06365	@Marian88963751 A mí también se antojó. Traigo un buen de hambre 😂 u.u Enloqueceré.	enfado	NONE
+2018-Es-04160	@HaterGH Ahora me enfado y no respiro! Patética!!!!	enfado	NONE
+2018-Es-01906	Entrar a esta hora y mirar cositas por ahí y volver a dormirme ofendida😔	enfado	NONE
+2018-Es-05662	Que nos pasa que no somos capaces de ganar en el bernabeu!! Que forma de tirar la liga. #impotencia #rabia	enfado	NONE
+2018-Es-03920	No cené por hacerme la enojada y ahora estoy muriendo de hambre, quien me manda a ser tan enojona 😥	enfado	NONE
+2018-Es-03342	Hdp desconectensen del Wifi 	enfado	NONE
+2018-Es-00542	@eldiarioes Ante la presentación de los hechos, las hordas zombis no saben sino insultar. Este es el nivel.	enfado	NONE
+2018-Es-04975	@ArevaloJuanP Eso se llama 	enfado	NONE
+2018-Es-05007	Cuánto odio hay en un país para que hasta una noticia buena, la conviertan en insulto?	enfado	NONE
+2018-Es-05149	Lo de libertad libertad, sin ira libertad, no hay que tomarselo al pie de la letra	enfado	NONE
+2018-Es-04459	Acaban de asaltar a mi hermano menor, lo han pateado en la cara, en emergencias por la lacra de la sociedad, rabia e impotencia	enfado	NONE
+2018-Es-03354	#HomenajeMABPdV La indignación del PP con @ManuelaCarmena es mucha Con su socio PNV ya menos porque donde hay pasta por medio ellos ya tal.	enfado	NONE
+2018-Es-01522	@montse469 @TeresaRodr_ @BroggiElisa Hacía tiempo que no leía un tuit tan desafortunado y cateto. Opinar y ofender sin tener NI PUTA IDEA	enfado	NONE
+2018-Es-00246	@Sinner_Silas «en cierta medida, soy una humana con poderes…  —El enfado se disipó con rapidez y dejó lugar a una mueca divertida, la cual»	enfado	NONE
+2018-Es-04226	@estherpalomera Pues si estás ahí te estará comiendo la ira escuchando al irredento y prepotente #oubiña @HoyPorHoy	enfado	NONE
+2018-Es-00013	Bueno una más, no le vuelvo a decir ni picha, gran amargada.	enfado	NONE
+2018-Es-04890	La tercera es una copa q vivi por un Idiota 🍸🐕😡	enfado	NONE
+2018-Es-05859	@ambarncf Ira nomas kien abla xd xd	enfado	NONE
+2018-Es-02731	Si alguien me habla no me enojo eeeh	enfado	NONE
+2018-Es-04758	@randymeeks @VidaModernaOML VOY A PLASMARLO POR AQUÍ (y en mayúsculas) PARA QUE SE NOTE MI ENFADO	enfado	NONE
+2018-Es-04372	Si os enojáis, no pequéis: procurad que el enojo no os dure todo el día. No deis oportunidad al diablo.  EFESIOS 4:26-27	enfado	NONE
+2018-Es-02258	El lugar que se tiene en el corazón de otro se gana, no se pelea.	enfado	NONE
+2018-Es-06889	@26_albelo @Agusmonte_ok *se siente ofendida*	enfado	NONE
+2018-Es-05249	Voy a llegar a casa y va a estar mi vieja despierta 	enfado	NONE
+2018-Es-03966	Descargando música y preciso la q me encanta no descargo 😡 #enojada	enfado	NONE
+2018-Es-02167	La odio literalmente a esa Piba 😑😡	enfado	NONE
+2018-Es-04100	Nunca me he bajado del barco ni lo haré pero esta temporada @atlasfc me ha decepcionado como hace mucho no lo hacía #triste #enojado 😥😣	enfado	NONE
+2018-Es-03296	@DavidGmez99 Piensa lo que quieras y como quieras que ellos seguirán donde están y tú igual de amargado por estos temas #XD	enfado	NONE
+2018-Es-06198	@apolo4u2 Quiero que me digas los motivos de tu enfado	enfado	NONE
+2018-Es-05071	@vegetta777 Buenos días samu esperó y ya no estés enojado , recuerda que ay millones de personas que valoramos tu esfuerzo 💜✨	enfado	NONE
+2018-Es-02360	Cómo no voy a estar gorda así? 😤	enfado	NONE
+2018-Es-05807	@WasabiiGirl @MrVago_ mmmta que es broma ira pues	enfado	NONE
+2018-Es-05162	Buenos días a todos, menos a los que nunca he ofendido.	enfado	NONE
+2018-Es-01183	Si es neta, esa señora está super frustrada, peleada con el mundo y le hace falta una bueeeena... Cena para que se ponga feliz :)	enfado	NONE
+2018-Es-05322	Odio a la gente que un rato esta bien y a los dos minutos tiene cara de orto 	enfado	NONE
+2018-Es-01158	Bates Motel 2x03: •Emma y el de los porros<3 •-Sr Simpson entienda q esto puede provocar perturbación y ligera psicosis -sí venga el incesto	enfado	NONE
+2018-Es-02015	@PacoRoca11 @joseperdi33 @orue_s @Elaguijon_ @eldiarioes Por qué le iba a insultar, si lo hace usted mismo, y solito.	enfado	NONE
+2018-Es-06545	"la ira te vuelve imbécil y los imbéciles mueren"  Amo a Michonne, que lo sepáis	enfado	NONE
+2018-Es-04829	via @Belkis_Inciarte:  @alecita2611 Peor q nunca... 	enfado	NONE
+2018-Es-03473	LAS FOTOS DE BTS X PUMA ME SACARON DE LA DEPRESIÓN ESO	enfado	NONE
+2018-Es-03275	@Pablo_Iglesias_ Estás enfadado porque no te han invitado? Los celos son muy malos.....	enfado	NONE
+2018-Es-02028	@Muzskatolista Lo digo porque a la peña se la sopla si es para ofender o no, lo van a hacer igual xd	enfado	NONE
+2018-Es-02170	Va perdiendo Millos y perdió el América, una palabra mas y mi cucha y mi ancestra me echan de la rancha.	enfado	NONE
+2018-Es-05178	Me voy a dormir estoy envenenado	enfado	NONE
+2018-Es-06535	@NathanThom_BS Vaya...*Enarca una ceja disgustado* Mira a quien tenemos aquí...	enfado	NONE
+2018-Es-03762	@paolaarl1622 Tu y tus berrinches mujer!. Háblame aqui que msn no me jala	enfado	NONE
+2018-Es-05523	Sofía amargada tiene sentimientos	enfado	NONE
+2018-Es-05552	Jajajajaj se me enojo Santi, ya mañana se le pasa jajajaja	enfado	NONE
+2018-Es-04273	Vi la pelea del grupo y no paro de pensar en bianca, ojalá no se suicide	enfado	NONE
+2018-Es-01724	Le tengo un terror a éste sábado próximo que ni 23 llamadas perdidas de mi madre lo supera.	enfado	NONE
+2018-Es-03994	@ActualidadRT @NicolasMaduro Claro, que orgullo... Pena ajena. Digan lo que pasa en palo verde a esta hora.	enfado	NONE
+2018-Es-00142	@waldorftty < cabeza y reprimió una mueca de disgusto mientras hacía a Astarthea alzar la cabeza. "Búscala", fue todo lo que dijo. La >	enfado	NONE
+2018-Es-06022	Buoh, me dormí de nuevo y me acabo de despertar y me encuentro que crush de mierda me ha bloqueado 👀 está resentido	enfado	NONE
+2018-Es-06693	Cuando se mato #ChrisCornell con tristeza total, lo único que pensaba era que me quedaba la voz de #Chester de #LinkinPark y ahora? 😭	enfado	NONE
+2018-Es-06081	@ashfromamike @CBinvaders @eldiarioes Pero resulta que en la información que yo comentaba no se explicaba las circunstancias del atropello.	enfado	NONE
+2018-Es-02986	Decir que el PP es una Mafia es un insulto a Lucky Luciano, la Familia Genovese y tantos otros honrados delincuentes.	enfado	NONE
+2018-Es-05436	Pues he empezado a perder el disgusto por el francés ahora que estoy escuchando al Saïan Supa Crew :/	enfado	NONE
+2018-Es-00396	quien me lleva a Italia para insultar al hijo de diosdado	enfado	NONE
+2018-Es-01781	Y ahora un poco de política:  Maduro tiene miedo.	enfado	NONE
+2018-Es-05468	Tengo mucho enojo, necesito controlarme.	enfado	NONE
+2018-Es-02013	Indignada porque el temario de música dice que vamos a ver cumbia colombiana, y estamos viendo OPERA🤦🏼‍♀️	enfado	NONE
+2018-Es-06735	@lumaria6688 @SrtaLyna No me enojo con ella	enfado	NONE
+2018-Es-03429	Son los hombres los que nos violan, asesinan y desaparecen, pero tranquilas ellos también pueden ser feministas!!! *Sarcasmo* #Enojada	enfado	NONE
+2018-Es-01238	No crítico lo insoportable q son las publicidades de Spotify pero decir q Coldplay es la mejor banda de la historia es un insulto a Queen	enfado	NONE
+2018-Es-06057	Nego adora provocar .. kkkkk opss	enfado	NONE
+2018-Es-00503	Puta madre, en la vida había estado más enojada	enfado	NONE
+2018-Es-03944	Porque todos me dicen *espero que cuides el celular*? Rompi varios pero no tengo 8años🙃...para que me anden diciendo cada rato 😑	enfado	NONE
+2018-Es-06628	Que amargado se te ve, cuando vos andas patruyando me la como a tu mujer	enfado	NONE
+2018-Es-03585	Me encanta el "no te vayas, no te puedes ir" mientras te jodo y te insulto...	enfado	NONE
+2018-Es-00816	La justicia pertenece al Estado, la venganza a las personas.	enfado	NONE
+2018-Es-05195	@DonBurroReal Fuera correa dictador 	enfado	NONE
+2018-Es-05809	@BlizzardCSEU_ES  no se puede jugar desde él sabado ..	enfado	NONE
+2018-Es-06626	Indignada con @orange_es me podéis pasar una dirección para reclamar, llevo solo 2 meses con vosotros y ya me quiero IR!!!! 😡	enfado	NONE
+2018-Es-01272	Después de subir eso me gané un cd de Guasones y se pasó el parcial para la semana que viene. 	enfado	NONE
+2018-Es-03927	@D_Nacional Más bien: "Sabemos lo que hicisteis antes de provocar una guerra".	enfado	NONE
+2018-Es-03007	@ThunderKiiwi Aquí la ofendida eres tú guapa,que has ido a decir algo	enfado	NONE
+2018-Es-03962	La vdd no sé si estoy enojada, triste o idk,	enfado	NONE
+2018-Es-01852	@xDefectiveTwin Uhm... Lengua larga.  —Arruga el gesto haciéndose la ofendida con la situación sabiendo que hay veces que el chico »	enfado	NONE
+2018-Es-03343	@GaunaIzaac Y con la demas gente sp rápido que me enojo	enfado	NONE
+2018-Es-01633	Sino es por Ayame (fue metida muy gratuitamente) y que lo usara para dar celos (y me daba rabia) en serio que Koga quedaba mejor con ella	enfado	NONE
+2018-Es-00403	Déjame sobrepasar tus zonas de peligro, hasta provocar tus gritos y que olvides tu apellido	enfado	NONE
+2018-Es-02248	El cielo está que se cae!!!!! 😥	enfado	NONE
+2018-Es-00949	@Tlahuicole1318 Gracias Tlahuicole. Me da mucho coraje que hayan rebajado a los piropos a algo tan sucio.	enfado	NONE
+2018-Es-05013	Esta noche me ha picado un mosquito en una teta, estoy enfadada.	enfado	NONE
+2018-Es-01715	El pueblo indignado pasará descontrolado a otro nivel de protestas;sobrepasará a la dirigencia y escogerá el camino libertario a la salida	enfado	NONE
+2018-Es-00669	Qué puto estrés con los niños que lloran. Deberían tener un botón de mute o algo NETAAAA. 🤦🏻‍♀😠	enfado	NONE
+2018-Es-05336	Que ofendida, decepción.	enfado	NONE
+2018-Es-00325	Que rabia y que miedo que cualquier hijueputa vaya electrocutando gente como con tanta libertad.	enfado	NONE
+2018-Es-05152	@MatiasRiveroDj Ayer vi caminando entre tumbas y hoy la de búsqueda implacable 3, son viejas pero están re copadas	enfado	NONE
+2018-Es-06428	Repito, si me hablas no me enojo	enfado	NONE
+2018-Es-02937	@Jahiluz iggggh no sé si sentirme indignada o que >:v xD!	enfado	NONE
+2018-Es-05836	Necesito algo en que canalizar mi ira, mi tristeza, mi vida y mi todo. Estoy infumable	enfado	NONE
+2018-Es-02733	@TheSexyOwl No busco remplazarte y no me gusta que estés enfadado conmigo.	enfado	NONE
+2018-Es-05736	Dentro de 3 años se me va el enojo 🤗😊	enfado	NONE
+2018-Es-06703	Por que no me habia dado cuenta que tengo público mis publicaciones de fb?😤😤😤😨	enfado	NONE
+2018-Es-00076	No puede haber un canal exclusivo donde pasen todo el día deportes? No es mucho pedir, cansada estoy de perderme partidos 	enfado	NONE
+2018-Es-01750	@anapalacio  ficha por Marruecos contra el Sahara Occidental. Parece mentira que se venda por dinero. Lea sentencias Judiciales "Indignidad"	enfado	NONE
+2018-Es-05069	Que estrés las personas hipocritas.	enfado	NONE
+2018-Es-02076	Ojalá algún día Diosito me quite lo amargada y celosa.😒	enfado	NONE
+2018-Es-03757	@fedesan9 @nicojusid Se cagó todo el amargo	enfado	NONE
+2018-Es-01629	@EmiOlmos87 Claro el señor no habla nunca, pero para bardear es el primero en la fila 😡 jajaja	enfado	NONE
+2018-Es-04159	@xxpolaroid QUIERES PELEA FÍSICA?	enfado	NONE
+2018-Es-06848	eh dormido tres horas y estoy entre triste y enfadada	enfado	NONE
+2018-Es-03035	@kittlab @Carlosurrutiacp @joantier @gabrielrufian @blindonion8 Miralo, Pobrecito, le da rabia que pongan likes. Va, uno de regalo!	enfado	NONE
+2018-Es-02768	Mentiras y más mentiras 😠😠😠	enfado	NONE
+2018-Es-04649	Provoca es salir corriendo de esta casa	enfado	NONE
+2018-Es-03898	@Ritalin_P si tiene win10, está de moda esa pantallita 	enfado	NONE
+2018-Es-00610	Ya de buena mañana exasperada con el puñetero papeleo	enfado	NONE
+2018-Es-04949	Su hay algo que detesto, es esperar. 	enfado	NONE
+2018-Es-02427	@YarielaMora @Haylock049 @jits2899 @Danielaeche07 Que cansado 😪	enfado	NONE
+2018-Es-03413	"Las palabras severas provocan ira. Pero las que se usan apropiadamente la quitan" Proverbios 15:1 #FamiliaSana	enfado	NONE
+2018-Es-01286	El del uber no atropello a mi ex, media estrellita.	enfado	NONE
+2018-Es-05159	@AweloJos Huelen la desesperación	enfado	NONE
+2018-Es-00054	Encima no estoy para aguantarme a una amargada por seis horas.	enfado	NONE
+2018-Es-03885	Es solo enojo, por no poder comprenderte u.u	enfado	NONE
+2018-Es-02828	@maydana34 @joaquinkremel Este tiene bula para insultar, la ley mordaza le excluye	enfado	NONE
+2018-Es-06541	@Miotroyo2parte La venganza de ultratumba! Son brutos hasta decir "basca". Todo idiota nos sale caro.	enfado	NONE
+2018-Es-05391	Que @KikoMatamoros no haya conseguido enchufar a ninguno de sus inútiles hijos en salvame y #huracanalba lo consiga tiene que joder #rabia	enfado	NONE
+2018-Es-04135	Planear tu venganza cuando estás enojado/a y que a los 5 minutos andes como si nada.	enfado	NONE
+2018-Es-02117	Estoy en medio de una descompostura abismal 	enfado	NONE
+2018-Es-02106	@gemapayan00 Perdón , me siento ofendida	enfado	NONE
+2018-Es-02825	@JorgeBustos1 @vilpetrus Asco, indignidad y que dice Pedro Sánchez ?	enfado	NONE
+2018-Es-02896	@YisesArr @MichelPesquera Aunque no soy estúpida, a mi me atropello un carro de helados jejeje	enfado	NONE
+2018-Es-04472	Es una gilipollez y me da igual pero tócate los cojones que se me cuelen viejas en el bus cuando luego son las primeras en quejarse #RABIA	enfado	NONE
+2018-Es-00762	no me molesta que use el edit me jode que no me likeo la selfy pero tuvo el DESCARO de sacarme el edit 	enfado	NONE
+2018-Es-06650	@salvaoret Jo, q rabia!	enfado	NONE
+2018-Es-05088	Y se vienen más cambios...😤	enfado	NONE
+2018-Es-06176	Niñas si sus novios tienen amiguitas CREANME no son solo amiguitas. Son las bellas niñas que los "escuchan" cuando ustedes hacen berrinche.	enfado	NONE
+2018-Es-04764	Me da chills pensar en la pelea de mayweather vs. conor	enfado	NONE
+2018-Es-02608	No hay cosa que me de más rabia que madrugar, bueno si, madrugar en verano, bueno y madrugar en verano para hacer trámites en el puto banco.	enfado	NONE
+2018-Es-01928	Con Gastón me hago la enojada y me tira un "te extraño" 😭💗	enfado	NONE
+2018-Es-06406	Me voy a matar😤😩😩	enfado	NONE
+2018-Es-06437	#pokemonsinlimite mika, enciende todas las luces de tu casa para provocar que salte el contador, sera mejor	enfado	NONE
+2018-Es-02600	No se que es más triste, que me aparezcan los recuerdos cuando me saludaban por el día de amigo o la muerte de chester	enfado	NONE
+2018-Es-03382	@manolomejia20 Típico insulto de pendejo	enfado	NONE
+2018-Es-04987	No me dejes, no me sueltes, puedo enloquecer !!	enfado	NONE
+2018-Es-04297	Si nos organizamos podemos ofender a todos los colectivos.	enfado	NONE
+2018-Es-05670	No tenia que haber ido, me duele una banda ahora😠	enfado	NONE
+2018-Es-01384	Malhumorado, presumido y descarado, desconfiado, despectivo...	enfado	NONE
+2018-Es-05095	Aún estoy envenenada de ti	enfado	NONE
+2018-Es-00155	Si saben en el peo que esta metido el pais donde estamos viviendo verdad? Si estan claros de lo grave y escoñetados que estamos?	enfado	NONE
+2018-Es-05210	Ve bien por la vid  y te ira bien en la vidar.. asi es!	enfado	NONE
+2018-Es-03887	Siento que me ahogo de la ira	enfado	NONE
+2018-Es-04141	@Bohncs El drama, ni me wa ofender peor va eh	enfado	NONE
+2018-Es-05504	@guidocass Juro que recién lo leí perdón, pensé que faltaban mas partidos igual 😥	enfado	NONE
+2018-Es-02633	El susto de mi vida me pegué... gracias a Dios estas bien mi gordo, nuestro ángel no dejo que nada malo te pase. Ya pronto estarás mejor😍	enfado	NONE
+2018-Es-05756	@naroh @ilse0101 No, el corrector ha preferido censurarme el insulto previo, eso sí. Qué lastima porque se lo merecía.	enfado	NONE
+2018-Es-05944	Empezando el dia #enojada con los onvres 🔧	enfado	NONE
+2018-Es-03754	Dicen que no es bueno que duermas enojada, yo por eso comento lo que no me parece, eso no quiere decir que me enoje.	enfado	NONE
+2018-Es-06451	@bendysy yo no te insulto... a veces te doy tu tiempo y creo que cuando no estas un par de preguntas y luego al buzon de mensajeria	enfado	NONE
+2018-Es-01138	¿Estoy enloquecido o enloqueceré?	enfado	NONE
+2018-Es-05373	@la_patilla @NicolasMaduro la emboscaron, la atropello con la moto, le monta la sucia bota y de paso la detiene con refuerzos de 30gnbasura	enfado	NONE
+2018-Es-05044	@JesusCintora Y la Cospe estara irritada con la UDEF...	enfado	NONE
+2018-Es-05003	¿Cómo salirte de un grupo de WhatsApp sin que piensen que eres agria y resentida?	enfado	NONE
+2018-Es-01915	@MrKinoccio Jajajaja, hay que ganar audiencia tío y hay que provocar	enfado	NONE
+2018-Es-03175	@ManuelaCarmena ¿Conoces a una sola victima que pueda sentirse ofendida por homenajear a #MiguelAngelBlanco?¿Una sola?	enfado	NONE
+2018-Es-05972	yo soy re bacana pero cuando me enojo dios santo agárrate catalina	enfado	NONE
+2018-Es-01981	Ahora es como si se hubiera peleado con Courtney Love y se puso con la Tigresa del oriente. He dicho.	enfado	NONE
+2018-Es-04761	12 de julio del 2017, azul hace berrinche y decide salirse de la carrera de diseño porque no le salen sus cartelitos para su banda.	enfado	NONE
+2018-Es-00524	Buena vista 1ra vmella, sin luz @EdeesteRD  nos someterán a la oscuridad antes del desastre! Estúpidos! #rabia #abuso @ProConsumidorRD	enfado	NONE
+2018-Es-03173	@PauMancilla_ @Tincho_moras10 Compas de mate amargo jaja	enfado	NONE
+2018-Es-02885	Hasta acá escucho a mi hermano coger con la novia así que en venganza rapeo-feo a todo volumen.	enfado	NONE
+2018-Es-06494	@glxymuse bueno maja a que me enfado >:( me estás llamando mentirosa?	enfado	NONE
+2018-Es-02206	Si el anon de Matías se quiere pasar por mi cc no me enojo	enfado	NONE
+2018-Es-00974	Me decis que soy un loquito y a continuacion  decis "la verdad no tiene que ofender" pero cuando te digo pelotuda te ofendes...que onda?	enfado	NONE
+2018-Es-04108	Tengo ganas de escribir una carta con intención de provocar diabetes.	enfado	NONE
+2018-Es-01757	@vegetta777 @YouTube Hoy no hay saludo con "Hermosooos o guapisimooos"? Sigues enojado vege? Esque me preocupas :c	enfado	NONE
+2018-Es-04026	Si alguien me trae un doble cuarto juro que no me enojo	enfado	NONE
+2018-Es-05914	No fuimos y me habré enojado 1 hora como mucho, no sirvo para estar enojado más tiempo 😂😂	enfado	NONE
+2018-Es-06553	@mundodeportivo @RogerTorello se le ve el enfado en la cara, jijiji	enfado	NONE
+2018-Es-00663	@ponminombreaca No es mal hablada, pero puta que es amargada!	enfado	NONE
+2018-Es-04839	@rxcketqueen__ no le des pelota isidro no vale la pena	enfado	NONE
+2018-Es-04473	Ves las noticias y es un sinfin de muert@s,maltratad@s,torturad@s... Es pa amargar a los que estan de vacaciones?	enfado	NONE
+2018-Es-02392	@uhhhmaria Me siento ofendido con mi voz	enfado	NONE
+2018-Es-04657	@vegetta777 Quiero verte triste ni enfadado. Te queremos muchísimo 💜💜💜	enfado	NONE
+2018-Es-05906	@ju4nkhalifa Igual sigo.indignada	enfado	NONE
+2018-Es-02306	Cuando te dicen ?sin ofender?, preparate para ser ofendido.	enfado	NONE
+2018-Es-06274	bue es que son re carrots y me da rabia que no quieran cambiar ay que linda gracias vos igual me caes re bien	enfado	NONE
+2018-Es-00133	Lo peor es que dice cosas enojado y yo me río jajajajjajajaa lo amo tanto al taradito este	enfado	NONE
+2018-Es-03834	@DrefanHardy X cierto,se te ha pasado ya el disgusto x lo d Halep???	enfado	NONE
+2018-Es-04335	@Rafael_Gaidovar @agarzon Pero para ti la ofensa es llamar miserable a quienes usan las instituciones para saquear.	enfado	NONE
+2018-Es-00334	Me enojo por todo 😂	enfado	NONE
+2018-Es-05308	Siempre he dicho que elegiría twitter si solo pudiera usar una red social: aquí hay memes y gente amargada como yo, no necesito más PERO	enfado	NONE
+2018-Es-04113	HIJO DE TU REPUTISIMA BOMBA PERRA ESTUPIDA BABOSA MADRE😡😡😡😡😡😡(sin ofender a su mama no la conozco es solamente una expresión de odio así el)	enfado	NONE
+2018-Es-03374	Que le pinta a este culia, me hace envenenar	enfado	NONE
+2018-Es-00811	Estaba viendo videos de terror pensando que Sofi estaba despierta pero se durmió jajajaja saque todo😂	enfado	NONE
+2018-Es-04927	Cuando estoy enferma soy más amargada y demasiado sensible, creo que me tocan y me pongo a gritar o a llorar no sé por qué	enfado	NONE
+2018-Es-06821	Mañana no habrá nuevo vídeo gracias a mi puta escuela!😢😠	enfado	NONE
+2018-Es-00073	Si fuera por mi seguiría viendo todos los capitulos, pero si sigo mirando no me levanta ni una grua. 😟	enfado	NONE
+2018-Es-01538	Soy súper berrinches, ok.	enfado	NONE
+2018-Es-00320	@Mireyam8 encima de tongazo, ofendida. Ya no me bloqueas mas mi cuenta. Sino quedate en casa o se mas sutil.Eres simple,incapaz y evidente	enfado	NONE
+2018-Es-03838	Como nos jodio la de biología con la actividad que mando 	enfado	NONE
+2018-Es-01318	Yo la mejor y que te contesten así nomas me infla la vena😠😡	enfado	NONE
+2018-Es-02616	Pilar ya me empieza a mandar audios de los cordobeses, jajajaja me va a enloquecer	enfado	NONE
+2018-Es-03741	Estly indignada con mis pies que no me respondian el sabado, re queria ir a esa joda l	enfado	NONE
+2018-Es-06341	Divino arrancar el día cayéndote con furia en la vereda a las 5 y media de la mañana.	enfado	NONE
+2018-Es-04478	Donde deje mis trabajossssssssss😤😩	enfado	NONE
+2018-Es-06721	Otra vez la misma historia. Hagan cárceles es 2 señoras ni queriendo podrán controlar la furia y el hambre del pueblo.	enfado	NONE
+2018-Es-03522	Me caga que las personas abusen de la confianza que uno les da, y más cuando son las más cercanas #enojada	enfado	NONE
+2018-Es-01476	Al principio estaba tentado, Ahora estoy envenenado	enfado	NONE
+2018-Es-03850	Pedro tenía temor de ofender a sus compatriotas que volvió a sus antiguas costumbres y ya no comía ni se juntaba con los gentiles. #LESAdv	enfado	NONE
+2018-Es-02911	Jajajajaj que indignación en Twitter ayer no?	enfado	NONE
+2018-Es-04465	@florido_raul @Eriemer @Pablo_Iglesias_ Vaya educación tienes! Opina sin insultar por q si no tus comentarios pierden cualquier significado!	enfado	NONE
+2018-Es-03125	@LANACION Que inversores? La bicicleta financiera tiene temor? Si gana ,sera senadora,como Mendez.Para ampararse en los fueros.	enfado	NONE
+2018-Es-05870	Yo puedo estar feliz, triste, enojada, con miedo, cansada, aborrecia, eléctrica, pensativa, borracha o sobria y mi cara siempre será 👉🏽 😒	enfado	NONE
+2018-Es-04506	Resentimiento Resentimiento™  gracias por seguirme ;)	enfado	NONE
+2018-Es-03732	@ideasgraficasrs De aplaudirlos, con dos ladrillos, en la cara 	enfado	NONE
+2018-Es-05806	No se puede estar bien siempre busca pelea.	enfado	NONE
+2018-Es-05993	Nunca hay que creer que los artistas se suicidan porque son cool. Son cool muy a pesar de ese destino fatal.	enfado	NONE
+2018-Es-06166	Me dan ganas de meterles una piña	enfado	NONE
+2018-Es-04197	Esta indignado el Botto por el cargador jajaja	enfado	NONE
+2018-Es-02434	demasiado tiempo perdido y amargada	enfado	NONE
+2018-Es-04351	@RominaIbarraL @arantzaosunal no fuimos 	enfado	NONE
+2018-Es-05652	-Mamá, quiero ser Wedding Planner. -¿Sabes el disgusto que le vas a dar a tu padre?	enfado	NONE
+2018-Es-04232	Da rabia igual que haya gente que busca tanto y nunca llega, y otros que lo tienen enfrente y no lo quieren ver. Pero bueno, decisiones.	enfado	NONE
+2018-Es-00521	Que bronca culiado 	enfado	NONE
+2018-Es-02998	@logiczzzzzzz @ByAdri10YT @JustMagaZ @AyudasEsP @Toony11_ Okey y te hice algo para q empieces a insultar jaja random no soy lo serás tu	enfado	NONE
+2018-Es-00851	#Barakaldo El secuestro y asesinato de Miguel A. Blanco me dejó el mismo poso amargo q 20 años atrás,los últimos fusilamientos del dictador.	enfado	NONE
+2018-Es-03384	mi venganza ya está hecha but ahora me siento mal	enfado	NONE
+2018-Es-00005	"ay yo cuando me enojo soy la persona más mala de todas".   Si loquita te olvidaste de Adolfito, Josephcito y un par más.	enfado	NONE
+2018-Es-04093	@GustiSandoval1 Y no convidas 😒 No es de resentido 😒	enfado	NONE
+2018-Es-02772	estoy muy enfadado con mi perra porque me ha despertado a las 9	enfado	NONE
+2018-Es-01121	@francontreras_7 Tengo una sospecha 😉	enfado	NONE
+2018-Es-00582	Veo mucha gente haciendo papelon. #rabia #LlegaGH	enfado	NONE
+2018-Es-05805	@chxlemr No es un insulto, es lo que SOS, GARCA, PUTO. Al menos viniste, chau, ortiba, ya me vas a buscar.	enfado	NONE
+2018-Es-00356	alguien me explica como hacen para insultar tipo abreviado "lpm, lcdh, ect". esta bien que tengan paja, pero yo así no me puedo descargar!!!	enfado	NONE
+2018-Es-05578	@_Laura_OMG_ @Elisa19452 No va para ofender va?	enfado	NONE
+2018-Es-03090	Aparte que la de Jason esté tan abajo me deja >:( #enojada	enfado	NONE
+2018-Es-05766	@____17CR es q no la he insultado ..voy a buscar los TT ya veras a lo que llama insulto	enfado	NONE
+2018-Es-06201	@Deny_hh Los cojones, me voy a dormir que ya me he amargado 😂	enfado	NONE
+2018-Es-02064	Mis súper nombres para nada comunes; y luego tengo a Evan Rabbitt Russell.  El más amargado con un muy tierno nombre.	enfado	NONE
+2018-Es-01457	@kattyarg5 Muchas gracias, lo tengo todo irritado de tanto dejarlo de foto de perfil jajajaj	enfado	NONE
+2018-Es-04144	@hampeon Me refería a tu boca. Lávatela con jabón, a ver si así dejas de insultar gratuitamente.	enfado	NONE
+2018-Es-06777	okokok un fav y espanto a los hptas gatos que estan culeando en mi ventana.	enfado	NONE
+2018-Es-01943	@RaybanUnderlord ¡Heterosexual! 👉 (Ya tienes otro insulto que meter)	enfado	NONE
+2018-Es-05019	Es bien heavy esto de tuiter. Se pasan por todas las emociones aca! En un ratito pasé de la rabia a alegría-pena-risa. Mejor me duermo. ✨✨💚💍	enfado	NONE
+2018-Es-02836	@waldorftty < Puso la más pura y creíble cara de enfado y frustración y entró en la sala varita en mano para después arrodillarse ante su >	enfado	NONE
+2018-Es-05543	Siempre que me enojo la termino cagando	enfado	NONE
+2018-Es-02709	Están justificando que abusaran de ella por enseñar las tetas en el chupinazo, cuando estaba en un bar sin provocar a ningún baboso	enfado	NONE
+2018-Es-00764	Aún sigo indignada 😂	enfado	NONE
+2018-Es-06832	La ava se enojo😄😄😄	enfado	NONE
+2018-Es-05438	@marianoobarrio  qué te pasa q estas tan furioso con MM.  Vas de candidato con alguien? Me acuerdo cuando criticabas  a Brancatelli...	enfado	NONE
+2018-Es-01527	@FuriaRojaNet @TmT_ProFR bienvenido a furia 📛	enfado	NONE
+2018-Es-02899	@chrischile Qué rabia, qué impotencia, qué dolor por la cresta!	enfado	NONE
+2018-Es-02645	Lo mosquitos me estan aturdiendo😡	enfado	NONE
+2018-Es-02256	Me caga que me hablen para contarme algo y ya no me cuenten	enfado	NONE
+2018-Es-02708	Mi indignación viene de que me sepa hasta cómo crece una puta uña o todas las capas de los dientes, y luego nos saltemos una parte del	enfado	NONE
+2018-Es-06668	Que pelea hermosa entre artistas , una locura	enfado	NONE
+2018-Es-03820	Mi vecina es la hermana de don vergas 😡 hija de @$%@+?*	enfado	NONE
+2018-Es-06281	La pobre mujer se sentia como que  habia hecho algo mal  Estaba enfadada con ella misma   NORMAL	enfado	NONE
+2018-Es-03017	la gente suele tomar como insulto cuando les dicen "yo escribía/dibujaba así como tú cuando empecé a escribir/dibujar" pero no es un insulto	enfado	NONE
+2018-Es-06256	Ok la mayoría de esos prompts de mierda en exo!g*rls si fueron elegidos pero no los míos que eran geniales. #enojada	enfado	NONE
+2018-Es-00416	@OkenCosplay QUIEN SE ESTA METIENDO CONTIGO?	enfado	NONE
+2018-Es-02234	Más que enojo es decepción🤷🏼‍♀️	enfado	NONE
+2018-Es-06359	ALGUIEN QUE RESPONDA provocar es ser zorra?????	enfado	NONE
+2018-Es-02654	El sarcasmo, el estado a la defensiva, el vacío, el enojo, la indiferencia  tienen contaminada mi alma.	enfado	NONE
+2018-Es-00285	Se amargado se te ve, cuando vos andas patruyando me la como a tu mujer	enfado	NONE
+2018-Es-03249	@Oskhar111099 Con Milito un equipo nefasto, horrible, y los mismos jugadores, con Holan todos rinden, juegan muy bien	enfado	NONE
+2018-Es-05514	O brujas que cazan. La venganza no sirve para nada, en mi caso.	enfado	NONE
+2018-Es-06093	Querer eliminar un comentario y eliminar la foto, si, sólo ha mi me pasan esas cosas	enfado	NONE
+2018-Es-02898	Fav si eres la que me la pone como pata de perro envenenado.	enfado	NONE
+2018-Es-06807	He visto malas adaptaciones, pero peores que esa, imposible. Rick, esto es un insulto hacia tus maravillosos libros.	enfado	NONE
+2018-Es-04616	@KioteKiote toda su carrera n malaga?37 partidos,1 temporada  jajajaja Infórmate antes bocazas,q solo sabes insultar x tú falta d argumentos	enfado	NONE
+2018-Es-04830	@cayeruby Y sacarse la carrera de fisica si le da la gana, eh? #MonarquíaEspañola. Y que conste que no insulto a nadie👍	enfado	NONE
+2018-Es-02468	@KioteKiote nadie te ha dicho que te guste, te pregunto en que basas para comprarlo con finbo y tú respuesta es insultar como argumento 👏🏻👏🏻	enfado	NONE
+2018-Es-01074	@morecar89 @SimonPerera @pablo_gps @vruizaldana @Koolasuchus @Eleder_ mira que te gusta provocar, pero tienes razón, son expresiones cultura	enfado	NONE
+2018-Es-03592	"Hija, pues qué disgusto, pero el retrasado de la serie se parece a tu ex". Mamá y la sinceridad estival.	enfado	NONE
+2018-Es-06862	Tremendo!! hace dos días me chamuyaba me decía que la novia esto lo otro y volvieron?Estoy tentadisima😂😂😝😝	enfado	NONE
+2018-Es-06111	Ver "indigenta' pidiendo  € para comer y hablando por móvil último modelo 😡 #indignante #rabia	enfado	NONE
+2018-Es-01468	@DanielaBlume tía, como coño convenzo a mi madre pa que me deje ir a verte, ¿me enfado y no respiro? 😥	enfado	NONE
+2018-Es-00779	@KingArtabricus, sabías que... cumprir anos pode provocar vellez? #gotitasdeconocimiento.	enfado	NONE
+2018-Es-03047	Quiero llorar mucho porque no se cuando vere el último capítulo de teen wolf 	enfado	NONE
+2018-Es-04683	Estoy feliz y enojado	enfado	NONE
+2018-Es-03361	Quiero encontrar algo que me haga feliz sin estar obligado a hacer otra cosa. #Rabia	enfado	NONE
+2018-Es-04451	@Maria__Ospina Nada como "pelea de ardillas con música de linkin park de fondo." :v	enfado	NONE
+2018-Es-03527	@brenbertoldo Cala boca 	enfado	NONE
+2018-Es-02265	Si yo hubiera sabido que en esta vida había que madrugar, trabajar, aguantar celos y berrinches; le hubiera dado paso a otro espermatozoide.	enfado	NONE
+2018-Es-02345	@Josetenecesita Blanquito molestando, y enfadado, que raro no?	enfado	NONE
+2018-Es-04013	@ConBici @HoyPorHoy Triste que se usen cosas como las que decís para hacer carriles bici como el que ha causado este atropello mortal.	enfado	NONE
+2018-Es-00581	@ClaramJauregui @tayyjaguarr son personas que no tienen nada que hacer en esta vida! 	enfado	NONE
+2018-Es-01430	Si con eso me pongo nervioso, no quiero imaginar el dia que suceda.	enfado	NONE
+2018-Es-06879	@GranaNacho @EscJmiranda @aznarez_toti @AnaKafci @noelmesa @Cybertario En vez de insultar a realizar mas comprension lectora	enfado	NONE
+2018-Es-02956	Mi papá bajo a la cocina a hablar con mi hermana y mi mamá estaba enojada pero nos quedamos arriba echando chisme y terminamos riendo.	enfado	NONE
+2018-Es-06304	@LothricBorgunll < venganza. Y de esa manera la cadena de odio, venganzas y sangre nunca terminaría. Ella tenía en sus manos el poder que >	enfado	NONE
+2018-Es-05790	Ahre la mina seguía resentida	enfado	NONE
+2018-Es-00939	@st4rs87 @garciabanchs Ni hablar del desplome del $ "tal cuál pronosticó" el "profeta". El tipejo es un peligro, jajajaja.	enfado	NONE
+2018-Es-02583	Qué triste, vas a sentir la soledad	enfado	NONE
+2018-Es-01234	@julietabarros10 Ya te había dicho que sos mas linda enojada ?	enfado	NONE
+2018-Es-03998	Y después se preguntan pq es q me enojo..	enfado	NONE
+2018-Es-02976	@ escritores de missing 9 sigo enfadada	enfado	NONE
+2018-Es-05894	Cuanto resentido suelto 😂	enfado	NONE
+2018-Es-03697	@lucasotor 'ira tu... no miacordaba, cómo hasta sin querer le da uno al clavo 😎	enfado	NONE
+2018-Es-02957	Yo creo que nunca me había enojado tanto como lo hice hoy 🙇🏻‍♀️	enfado	NONE
+2018-Es-02656	tener el pelo lacio y fino es horrible, se me enredatoooooodo	enfado	NONE
+2018-Es-06495	Mi mamá me dice que esta preocupada porque estoy loca por Flandria, y si ma lo 100to es la hija que te toco 🐥💛	enfado	NONE
+2018-Es-00718	@iOneGentleman_ @Resentimiento El problema es que no está claro si el primero era realmente afirmativo jajaja	enfado	NONE
+2018-Es-01994	@CristoAtado Ese tipo de personas no dan ni tristeza. Dan vergüenza. #rabia	enfado	NONE
+2018-Es-01010	@mc112149 Sería un insulto para Guardiola decir que estan igual de sobrevalorados, lo de Tomlin es otro nivel, un completo mediocre.	enfado	NONE
+2018-Es-02542	Es increíble como te olvidan en tan sólo un chasquido	enfado	NONE
+2018-Es-06342	Oh, Café Helado. Es increíble que el resto del año te tome hirviendo. Quizá no seas el mismo. Quizá no lo sea yo. Quizá nada tenga sentido.	enfado	NONE
+2018-Es-02199	Yo nunca olvido una ofensa	enfado	NONE
+2018-Es-00747	Talvez me ponga nervioso si te veo, pero no quiere decir que te deseo. No te olvide, en el proceso estoy.	enfado	NONE
+2018-Es-04537	Antes a estos problemas ni les prestaba atención, ahora me quitan las ganas de dormir y mas ansiedad ... La vida y sus cambios.	enfado	NONE
+2018-Es-03271	@PokemonShuffleM con la última vida nunca se hace una fase gradual, salvo que se haya enfadado. Eso es de 1° de Shuffle XD	enfado	NONE
+2018-Es-04382	mal parado rossi lpm..😠	enfado	NONE
+2018-Es-04329	@diegoofrias por qué vives enojado con la vida amigo?😟	enfado	NONE
+2018-Es-02384	Si pyso por tu lado y no te saludo no lo tomesqcomo enojo que los amores que se ..ieren se saludan con los ojos.	enfado	NONE
+2018-Es-06581	Ojalá una precuela de Imperator Furiosa.	enfado	NONE
+2018-Es-01175	Pues me da que el hijo de Trump (parece un insulto pero no lo es) se está inmolando por papá y la abogada rusa tapa los verdaderos contactos	enfado	NONE
+2018-Es-01161	Juro que estoy muy enojado en este momento	enfado	NONE
+2018-Es-03750	se enojo porq le aplique la del maincra	enfado	NONE
+2018-Es-00035	Quiero cigarrillos lpm😤😤😤	enfado	NONE
+2018-Es-06037	no mames que pinche enojo, no vuelvo a hacer ninguna broma!!	enfado	NONE
+2018-Es-01329	@TownGamePlay Necesito tu abrazo ya. 	enfado	NONE
+2018-Es-04638	Imperator Furiosa! #Madmax	enfado	NONE
+2018-Es-03128	Ayyyyyy quiero que se pongan las pilas asi así me dan el 28 a mi, lpmmmmm	enfado	NONE
+2018-Es-03021	#manosblancasm4 Donde estaban los del #ppcorrupto y vuestra indignación en el homenaje a las víctimas del franquismo,en el congreso??? 🖕🖕🖕🖕🖕	enfado	NONE
+2018-Es-05393	UPA CUCHA AMARGO O DULCE	enfado	NONE
+2018-Es-00933	@el_pais Con este titular parecéis cortos de mente así sin ofender  ahí lo dejo 😂. Si se sabe otra cosa es que le deis la espalda al asunto.	enfado	NONE
+2018-Es-00144	@SEUR_responde lo hice anoche, esta mañana, y pasan de mi cara #vergüenza #enfado #impotencia .. llamadme de una vez y dadme una solución!!	enfado	NONE
+2018-Es-00392	@Mubrutico @AlvaroVadin @aracnoideo Estoy enfadado con él , no saca la bici... 😂😂	enfado	NONE
+2018-Es-06430	Sospecho de Judas Iscariote con una oreo envenenada, en Coyoacán, México	enfado	NONE
+2018-Es-03805	Desanimado legal de sair sábado	enfado	NONE
+2018-Es-00408	@DemDagon « alguien les estuviera siguiendo y hubiera provocado aquello, pues no veía al demonio cayéndose sin más o inventándose algo »	enfado	NONE
+2018-Es-03646	#DeNocheenlaCiudad Esperanzado de ganarme manillas para el #VibraTYM Y darle la sorpresa a mi esposa @Vibra1049 @CamVelandia	enfado	NONE
+2018-Es-05584	@maftdaddario Qué amargado cabron	enfado	NONE
+2018-Es-02465	Repugnante ver a las hienas(tertulianos), morder, insultar y rabiar, por conseguir un trozo del cadáver de Miguel Ángel Blanco (homenaje)...	enfado	NONE
+2018-Es-04452	@gonzale_pedro @La9deAnon Lo mismo digo. Me acabo de enterar y qué disgusto.	enfado	NONE
+2018-Es-06133	Doy mi vida por alguien que me traiga helado a estas hora, tengo un antojo terrible.	enfado	NONE
+2018-Es-03796	Los domingos son para descansar no para hacer cosas d la facultad 😒🖕🏻#enojada	enfado	NONE
+2018-Es-06413	este programa es un insulto a la psiquiatría por qué lo sigo viendo?	enfado	NONE
+2018-Es-04391	Aún recuerdo a la gente super indignada por lo de Kirigiri y lo de Nanami  Mi alimento su odio fuck yeah	enfado	NONE
+2018-Es-05620	-Ella enojada me putea en 12 idiomas. En ese momento es la mas hermosa! #enojada #love #tarde	enfado	NONE
+2018-Es-00823	dibujo hojitas le doy color a los pezones para que resalten de furia en fin es un trabajo duro pero alguien debe hacerlo	enfado	NONE
+2018-Es-06398	Estoy yo mas preocupada porque mi mejor amiga aprueba la previa que ella misma	enfado	NONE
+2018-Es-00986	@Apixelados Y aqui es de noche y esta llovien pta que sad😡	enfado	NONE
+2018-Es-03471	@JosDice Si me sigues no me enojo😜	enfado	NONE
+2018-Es-05626	3 cosas que no puedo ocultar:  •Mis hijueputas celos. •Mi hijueputa enojo. •Mi hijueputa gusto por usted.	enfado	NONE
+2018-Es-04453	No podemos estar bien que ya me enojo por algo que pienso o me invento ajajajaj	enfado	NONE
+2018-Es-00574	Me perdí culpa de DNI Culiado locoo y mi inrresponsabilidad 	enfado	NONE
+2018-Es-06701	Una vez estaba muy enojada con el ex de mi mejor amiga (la había hecho sufrir mucho) le mandé un priv diciendo que todo lo malo	enfado	NONE
+2018-Es-02262	No le sale estar enojada 😏🔥	enfado	NONE
+2018-Es-00068	que ganas de comer chocolate amargo	enfado	NONE
+2018-Es-03327	Cada que quiero insultar la pendejes de alguien mi "good vibes interior" me dice que lo deje ser si es feliz yo soy feliz VIVE Y DEJA VIVIR.	enfado	NONE
+2018-Es-02147	Que puñetera es la vida a veces eh 	enfado	NONE
+2018-Es-02101	No me enojo si me hablan	enfado	NONE
+2018-Es-05871	Mi hermano se la pasa en la casa de Lala, vive más allá que acá 	enfado	NONE
+2018-Es-06270	@Pedrito_Vm sos yo en la vida, estafado y indignado	enfado	NONE
+2018-Es-03390	Llegue al punto que ni enojo me causan las cosas. Claramente ni ai estoy 💆🏽 0 importancia	enfado	NONE
+2018-Es-04092	@findxjoy @draxler_leon NADA QUÉ, ¿POR QUÉ TE HACEN OJITOS? *INDIGNADA*	enfado	NONE
+2018-Es-01319	Odio estar tan enojada y que me de risa💆	enfado	NONE
+2018-Es-05205	#Rayito  weeee los frijoles me van a hacer cagar horrible jajajajaja 😹perdón tenía que decirlo	enfado	NONE
+2018-Es-06356	Acabo de votar mi carterra 	enfado	NONE
+2018-Es-01072	@TamaraCapeche Jajaja ella enojada	enfado	NONE
+2018-Es-03060	@Cristian_B15 lo missssmo de siempre	enfado	NONE
+2018-Es-01734	@CaamiAlvarez3 Uy pero que enojada estas que me respondes el twitt, si ya se que querés hablarme no te hagas la difícil jajaja	enfado	NONE
+2018-Es-01202	Se cae el cielo... que lave todo lo que angustia... #Rabia #Miedo #Oscuridad	enfado	NONE
+2018-Es-05194	@PrensaPEsquivel Una actitud persecutoria, muy de "Marica" mala, caprichosa y resentida...	enfado	NONE
+2018-Es-01347	me encanta que me insistan cuando me enojo o que m sigan hablando cuando les clavo visto, perdon	enfado	NONE
+2018-Es-00546	Muy indignada con la película que acabo de ver 😭😭😭😭	enfado	NONE
+2018-Es-00926	@lLumosl Deja la indignación a un lado!  Ya veras cuando te vea en la universidad 😡	enfado	NONE
+2018-Es-04563	Me siento enojado con la vida y por muchas razones 😶	enfado	NONE
+2018-Es-06099	@__iDann MUY TARDE. JAJAJAJA como cuando le dijiste a mi novio que no me contestara.. ¡AQUÍ ESTÁ MI VENGANZA PUTO! 😗	enfado	NONE
+2018-Es-00989	@stressedhayley Esa venganza no te la robo	enfado	NONE
+2018-Es-01100	Mi gata nina qué haría sin esa amargada gruñona😻	enfado	NONE
+2018-Es-02387	Pero que ganas de que tengas un caniche así te lo pateo hijo de puta un insulto que diga	enfado	NONE
+2018-Es-06102	@jotajordi13 @somhiserem @jmbartomeu Que estas enfadado por que no cojen los crack que tu representa	enfado	NONE
+2018-Es-03925	Casi una hora esperando la caga de micro!!!!‼️‼️😡	enfado	NONE
+2018-Es-01888	Si me hablas no me enojo	enfado	NONE
+2018-Es-00774	@DragonsR6 @JandritomurosHD @chimigastaca Bffff menudos refuerzos entran...	enfado	NONE
+2018-Es-03062	Estoy tan amargada que a todo le encuentro peros o algo malo.	enfado	NONE
+2018-Es-04095	@draco_malfoyesp —La rubia intentó asimilar aquellas palabras lo mejor que pudo, pero acabó por fruncir el ceño con una expresión que»	enfado	NONE
+2018-Es-04103	Sí, odio trabajar en equipo, aquí sólo uno de cada tres trabaja, los demás sólo estorban y entorpecen todo #enojada	enfado	NONE
+2018-Es-02324	vienen a visitarme a mi y se ponen a jugar a la play 	enfado	NONE
+2018-Es-04846	@Tomasbetico07 @lucharsgs @Nuestro_Betis Te he contestado antes, la salida vuestra es no leer e insultar (gilipolleces)	enfado	NONE
+2018-Es-00421	soy rubén rabioso y estoy muerto hace 28472838 años, si no me crees búscame en google	enfado	NONE
+2018-Es-05599	@SxrcasticBatman < la cara en su mano. De reojo, no podía dejar de mirar al pálido, pensando en si estaría enfadado por algo con él.-	enfado	NONE
+2018-Es-04365	@SChecoPerez @HawkersMX Que vergüenza que sean de mi tierra 😠 os pido perdón por la ofensa mexicanos!!	enfado	NONE
+2018-Es-03355	Para que ponen funciones en su cartelera si cuando vas a llegar al cine resulta que cerraron 😠 #cinemex me fallaste #enojada	enfado	NONE
+2018-Es-05952	🎵No me folles con tus barbas😊 que las tienes pringadicaaaaas 🎵y si lo haces, por venganza🎵 yo te pego mis ladillaaaaas🎵😊 #SilvesJotero	enfado	NONE
+2018-Es-04056	Y además, en aquella oscuridad candente había gusanos. —¿Lombrices de tierra? —preguntó con el ceño fruncido.	enfado	NONE
+2018-Es-05055	Sólo estoy muy enojado con todos son razón aparente.	enfado	NONE
+2018-Es-04724	El mejor slasher de películas de terror? #TalentoVenezolano #arte #SIGUEMEYTESIGO #SiguemeYTeSigoAlInstante #LunesDeGanarSeguidores 	enfado	NONE
+2018-Es-00849	Voy a desenterrar Under the Red Hood y Lost Days para leerlos otra vez y dejar de sentirme ofendida	enfado	NONE
+2018-Es-02394	Que odio que la rabia se convierta en lágrimas	enfado	NONE
+2018-Es-00242	Te querés tomar un cortado rápido y te lo sirven hirviendo 😐	enfado	NONE
+2018-Es-02712	Le mejor de todas las veces que me e enojado es cuando llega la hora de mi venganza.🧐😎🤩	enfado	NONE
+2018-Es-04096	@sebasvargas05 Yo me siento indignada digamos	enfado	NONE
+2018-Es-03315	Hacer un pedido en @AmazonESP,que digan que llega en un día,pero no llega..  ¿Es engaño? ¿Para eso me suscribí a @amazonprimenow? #enfadado	enfado	NONE
+2018-Es-02870	@Glorette_616 El me pelea, insulta. Yo lo bloqueo. Punto. Enojate con otro.	enfado	NONE
+2018-Es-04800	Ya no me contestó, pero con ella no me enojo jeje	enfado	NONE
+2018-Es-01774	Mi mama se enojo con abi por que no comió hoy y cerro el negocio con llave.. Ahora no puedo buscar comida.. Estoy a punto de llorar.	enfado	NONE
+2018-Es-02670	Estoy tan enojada con mi novio que me dormi sin abrazarlo. Soy re cruel lo se jijiji	enfado	NONE
+2018-Es-06441	Me enojo en secreto cuando veo tus etiquetas de memes de putería.	enfado	NONE
+2018-Es-00561	26. Soy muy sincera, realista y directa. Y muchas veces es un problema porque no mido lo que digo y puedo ofender o hacer sentir mal):	enfado	NONE
+2018-Es-04156	OVIALCDMX Exceder los límites de velocidad puede hacer que pierda el control de su vehículo y provocar accidentes. Art. 9. …	enfado	NONE
+2018-Es-02849	@FuriaRojaNet @luismaoriginal bienvenido a furia vene ;) 📛	enfado	NONE
+2018-Es-00665	En este momento estoy odiando mucho a irina 	enfado	NONE
+2018-Es-03430	Siempre dije que es de resentido borrar las fotos con tu ex	enfado	NONE
+2018-Es-00034	Hoy voy a soñar con el derecho al trabajador😤😤😤	enfado	NONE
+2018-Es-06756	enfurecida y sedienta de vino	enfado	NONE
+2018-Es-03508	@Tusbesosenmi Porquè duele, decepciona y a veces es amargo.	enfado	NONE
+2018-Es-02779	El internet viene y va, así como el ánimo del Venezolano.	enfado	NONE
+2018-Es-06724	Ayer, pillé a mi hermano pequeño masturbándose. Hoy le he pillado otra vez en el mismo sitio y se ha enfadado…	enfado	NONE
+2018-Es-04418	« me encuentro al supuesto tío y le digo si es suficiente ya. Y el tío se raya, y yo me enfado, hasta que descubro que ese es su gemelo. »	enfado	NONE
+2018-Es-01766	Creo que lo que odié de Nocturnal Animals es lo mismo que odié de Gone Girl. Se están robando mis ideas de venganza.	enfado	NONE
+2018-Es-02413	Cuando se homenajea a una víctima varios días seguidos, y al resto no, deja se ser un homenaje y pasa a ser una ofensa. #HomenajeBlancoEP	enfado	NONE
+2018-Es-01387	#Rabia por el contraste brutal entre la entrega al 100% de la población civil y el cinismo e inmovilidad de la clase política #FuerzaMexco.	enfado	NONE
+2018-Es-04388	¿Qué tan resentida puedes estar para meterte en una relación? ¿Quién te hizo tanto daño? 🤔	enfado	NONE
+2018-Es-01869	Estoy bien ofendido, sin palabras!	enfado	NONE
+2018-Es-03908	Como se puede poner un mg a algo cuando te da #coraje que suceda. Un icono q represente #rabia en twitter ya. @marlol9 @labasculaTV	enfado	NONE
+2018-Es-03708	Me enojo por todo😩	enfado	NONE
+2018-Es-00098	esto me recuerda a cuando confirmaron a chloe para Ariel, like rlly?? sin ofender pero no se le parece EN NADA a Ariel	enfado	NONE
+2018-Es-04686	porq cuando hablaba de venganza se ponia triste, pero por ahi le recordaba a una venganza q tenia q ver con otra cosa y no con el"adulterio"	enfado	NONE
+2018-Es-06284	@ELTIEMPO Tras de matón ladron? Bueno algo así dice el dicho	enfado	0
+2018-Es-03347	Tengo entre ira y bronca que pajero que ess este waso jesussss	enfado	3
+2018-Es-02767	Soy bien pinche infeliz.	enfado	1
+2018-Es-00361	Quiero tocar tu cielo, reinar en tu reino y enloquecer con vos..	enfado	0
+2018-Es-04879	Solo tengo Facebook para leer comentarios, los argumentos de la gente ofendida son bien graciosos. 😂	enfado	0
+2018-Es-04721	Se ira quien se tenga que ir y se quedará quien tenga que quedarse.	enfado	0
+2018-Es-03333	Quien juega contigo y tu mente no es un ser astuto es un cobarde.	enfado	2
+2018-Es-01466	Si me van a bardear busquen otro "insulto" porque el puta y quedada ya lo quemaron (Y me chupa un huevo también). Beso	enfado	3
+2018-Es-01342	Yo soy tannnn poco sentimental, tannn odiosa y tannn amargada q a veces pienso q a mí no me daban tetero sino ácido sulfúrico	enfado	2
+2018-Es-04872	Lptm loco ya esta no juego mas!!	enfado	2
+2018-Es-06820	@Juliococo Es lamentable pero así es que se acabará el chavismo, esto si es pueblo	enfado	1
+2018-Es-05672	@_ruggero No quiero ofender pero para mi eso es una inmadures no el unfollow si no las indirectas. Lo siento lo tenia que decir😲😰	enfado	1
+2018-Es-01344	Esta miopía me tiene fregada la vida	enfado	3
+2018-Es-01800	Se hace el enojado cuando yo debería estar cagandolo a piñas.	enfado	2
+2018-Es-00987	Amo joderlo a franco o hacerme la enojada con el😂💞	enfado	0
+2018-Es-01152	Reloj no marques las horas, porque voy a enloquecer...	enfado	0
+2018-Es-06005	Anoche no me estalló la vena de la furia de milagro.	enfado	2
+2018-Es-02389	No es enojo  España depcecion  y creo que es peor	enfado	1
+2018-Es-06697	No me pienso perder la pelea de McGregor contra Myweather	enfado	0
+2018-Es-06449	@narielg La pizza te quita el enojo? No comprendo tu sentir	enfado	1
+2018-Es-04168	@valegarcia_01 se re nota que es una resentida, por favor mamita supéralo JAJAJA	enfado	1
+2018-Es-01576	@LechugaEdson01 De ti no lo acepto sigo indignada	enfado	2
+2018-Es-04136	entre mujeres borrachas y no le estabas acosando y no he visto a nadie indignado en modo 'va provocando'.	enfado	2
+2018-Es-06020	Me metí en la cama sin cenar de tan cansada que estoy, quiero  ver algo divertido, liviano pero no tonto. Qué veo en Netflix?	enfado	0
+2018-Es-00283	Me caga dormirme enojado carajo	enfado	3
+2018-Es-04281	Que horrible sensación esa cuando algo realmente te duele o te molesta y te tenes que quedar ahí sonriendo y fingir  que todo esta bien	enfado	2
+2018-Es-05872	Pasito a pasito, suave suavecito Nos vamos pegando, poquito a poquito, Hasta provocar tus gritos Y que olvides tu apellido.. DESPACITOOO	enfado	0
+2018-Es-00648	Habíamos peleando con Andrea y me dice para tomar Fernet y se me pasó el enojo Jejee (amordehermanas)♥♥♥	enfado	0
+2018-Es-04718	Si, me molesta que adelante la serie sin mi. Y Mucho 	enfado	2
+2018-Es-01036	"Si se enojan, no pequen; que el enojo no les dure todo el día. No le de oportunidad al diablo."	enfado	0
+2018-Es-03409	Asi o mas sospechoso 🤔😂✌️	enfado	0
+2018-Es-03707	@violetlightstar @sarcasmshouts @arrowsftcry @delusivcbes @gcldndark Me perdí la pelea del año.	enfado	0
+2018-Es-02711	Sivpaso por tu lado y no telsaludo no lo tomes como enojo que los amores que se quieren se saludan con gos oj,s.	enfado	0
+2018-Es-03825	Tan resentida vas a estar locaaa?	enfado	2
+2018-Es-03179	El intelecto de una alma oscura es peligroso y aterrador	enfado	1
+2018-Es-04918	@Javierito321 Javierito...te amo, ta como amargada la jeva. No le pares...	enfado	0
+2018-Es-04075	El tiempo pasa incluso aunque parezck imposible, incluso a pesar de que cada movimiento de la manecilla uel reloj duela.	enfado	0
+2018-Es-05968	Indignada con la película	enfado	2
+2018-Es-00061	Mi bateria se fue alv, no pude estar en Wattpad, que rabia :/	enfado	3
+2018-Es-01454	Que estén mis sobrinos en casa me genera mucho mal humor cuando estoy desde las 6 despierta y no dormí siesta. 😡	enfado	3
+2018-Es-02290	@EzequielLuucas @MaiRejis Pelea de parejas acá no	enfado	1
+2018-Es-03348	Lo peor andar en el @Transantiago q gente más mal educada 😡	enfado	3
+2018-Es-03765	Se enojo 😂😂😂	enfado	0
+2018-Es-02639	Si prensa y opinión pública tolera la indignación con Ramos por irse igual del vecino, ¿por qué nosotros somos palmeros por indignarnos?	enfado	1
+2018-Es-01004	era una noche ricotera y los vagos no pusieron un carajo estoy enojado	enfado	3
+2018-Es-02134	Tengo que admitir que me estoy cagando de miedo. 	enfado	0
+2018-Es-03195	Si alguien viene a visitarme no me enojo 😋	enfado	0
+2018-Es-05798	@hachemuda12 😂😂😂 Me han recortado las patitas del trisquel. ¡Venganza!	enfado	1
+2018-Es-02342	Esa pelea interior entre sí ir a orinar o ya dormirme para no pensar en ir a orinar jajaja. Maldita hueva me corroe.	enfado	1
+2018-Es-04350	Echenique eres un #resentido con la vida, por eso hablas d esa manera tan miserable  #HomenajeBlancoEP	enfado	3
+2018-Es-04499	Aveces le tengo tanta bronca a la sarnoza de mi hermana 🙄😤	enfado	2
+2018-Es-06306	@CandeSolsu Callate que sigo ofendida	enfado	3
+2018-Es-02549	@TejoMattioli Vale la pena para mechar con alguna otra serie. Está buena, para verla en la cena.	enfado	0
+2018-Es-02141	Ptm, donde esta mi lunar??? 😥	enfado	1
+2018-Es-04099	A mi se me va a desaparecer el resentimiento por alguien o por algunas cosas cuando me vaya a vivir a otro país y nose si más lejos tdvia	enfado	2
+2018-Es-00684	Ya. Ese fue mi berrinche del mes	enfado	0
+2018-Es-00352	NOOO WE NO ESTOY ENOJADO, asi soy normalmente 🙄	enfado	1
+2018-Es-02089	@trafficTACHIRA @Adrian2820 Gracias a la cnstituyente	enfado	0
+2018-Es-02067	A veces me pregunto si soy yo la loca de mierda que se pelea con todo el mundo o las personas son tan pelotudas y tan problemáticas?!?!?!?!?	enfado	2
+2018-Es-01306	#EsDePutos decirles maricones a los homosexuales.  P. D. Este twit no se hizo con el fin de ofender a la comunidad gay	enfado	3
+2018-Es-03879	'Me encanta' BUENOOOOOO	enfado	0
+2018-Es-00997	Suelen coincidir en este país los que se mostraron furiosamente indignados con el chapapote y años antes habían sido indiferentes al Txapote	enfado	1
+2018-Es-05362	@white_comonnerd ¿A costa de Rami Malek? #Indignada El es muy lindo 😌	enfado	0
+2018-Es-05262	Acabo de meter la pata bien cabrón por hacerme el intelectual y sólo demostré mis carencias emocionales y lo amargado que soy. Puta madre.	enfado	3
+2018-Es-01095	«Sus ramas se hicieron más pesadas por las lágrimas que derramó y sus raíces desgarraron la tierra por la ira» (Biografía de Maokai)	enfado	0
+2018-Es-04450	Tan enojado iba a estar Dio?	enfado	1
+2018-Es-03015	@xNereatw Preparando la venganza 😚😀	enfado	1
+2018-Es-00935	Mucho a destacar en #DeathNote. Dos únicos apuntes: la última frase es magnífica, la #BSO incomprensible. #cine 	enfado	0
+2018-Es-04088	¿Y si este café supiese a ti? Amargaría.	enfado	1
+2018-Es-04816	Falta una pelea o confesiones morbosas 🤔	enfado	1
+2018-Es-05029	@tinchomoretti @elOrdenMundial Imaginate que terror ser ciudadano británico y que te quiera absorber Argentina. Salí de ahí maravillaaaaa	enfado	1
+2018-Es-06520	@balboa9718 Ya deja de ser tan amargado por faaaaa	enfado	1
+2018-Es-04882	@LgendCR @JDavidGraphs Qué onda por qué se enojo?	enfado	0
+2018-Es-02174	@TheRedPika Pero si no insulto a mi cuñado que cojones hago entonces	enfado	2
+2018-Es-05487	El Tiempo es el enemigo indestru tible, puede ser vencido en mas de mil batallas, pero en la ultima permanece a implacable.	enfado	0
+2018-Es-04058	Ahora los iguazos digo los Colombianos salen a ofender al gran @ArjenRobben a lo bien que mucha gente es severa plaga	enfado	2
+2018-Es-05643	Es que cada vez que me enojo con él lo borro 😹😩. Prometo neta ya no hacerlo🙄😁!	enfado	1
+2018-Es-05175	JAJAJAJAJAJAJJAJA la Andrea está viendo "Laura" que tanto está aburrida	enfado	0
+2018-Es-05443	¿Amor sin celos, sin berrinches, sin discusiones? Que aburrido.	enfado	0
+2018-Es-00202	¿Como puede hacer la gente para no sentir odio y resentimiento en sus corazones?	enfado	1
+2018-Es-00498	@Mayanvillafuert No mms me dolió leerlo 😟	enfado	0
+2018-Es-02182	Perdon pero estoy #enojada	enfado	3
+2018-Es-06696	Un semáforo malogrado cumple mejor función que un policía de transito 😤	enfado	1
+2018-Es-04670	@HenryOuatx -Niega con la cabeza y deja escapar una risita nerviosa.-  Mejor no, cariño, esa, es una historia bastante retorcida	enfado	0
+2018-Es-01108	Una persona misteriosa (no vale dejar comentarios) me pidio fotos.. supuestamente para un video "sorpresa" ??? 	enfado	0
+2018-Es-04736	El necio al punto da a conocer su ira;Mas el que no hace caso de la injuria es prudente.#mision	enfado	1
+2018-Es-00570	Estoy sola en la biblioteca del poblado. Sola, triste y amargada.	enfado	2
+2018-Es-05023	Me gustaría ser político, pero ya tengo suficiente con la vergüenza ajena provocada por todos los partidos.	enfado	1
+2018-Es-02541	Está claro que están más de acuerdo con la ladrona de bebés en plan "una acusación sin pruebas" "Doña Dolores Baeza ha resultado ofendida"	enfado	1
+2018-Es-00618	Pablo Pérez 	enfado	0
+2018-Es-03882	Se mandan tarde los tweets	enfado	1
+2018-Es-01916	@alfredocamposga @descifraguerra @KurdisCat Claro colaboras con nosotros.... eres parte del régimen xD a mi me dio una arritmia del disgusto	enfado	2
+2018-Es-02749	No hay que dejar que el sentimiento se convierta en resentimiento. "No ha muchos nos pasa"	enfado	0
+2018-Es-02595	Yo lloro de enojo porque soy como los nenes chiquitos que no dejan hacer algo y se emperran.	enfado	2
+2018-Es-03199	Siempre tiene que estar Dios primero en tu vida y te ira bien !	enfado	0
+2018-Es-06061	@javiercedeo @florciampoli Imagínate eso! Yo solo lo conozco por esconderse en cielo rasos, ahora por incoherente...de 2-0	enfado	1
+2018-Es-03092	Ya quiero que sea la pelea de Conor McGregor y Floyd  Mayweather #McGregorVsMayweather	enfado	0
+2018-Es-01658	"Nada se olvida más despacio que una ofensa; y nada, más rápido que un favor" Martin Luther King BUENOS DÍAS FELIZ MIÉRCOLES	enfado	0
+2018-Es-06617	No hay cristiano maduro, plantado en la Palabra, que tenga una excusa razonable para vivir su vida ofendido. - Pastor Brian Huston	enfado	0
+2018-Es-06611	ok, algo le pasa a mi twitter, sale como si estuviera siguiendo solo a una persona... #asustado	enfado	0
+2018-Es-03490	Yo tengo dos tipos de celos, los normales donde hasta digo que estoy celoso y en los que me enojo y me voy.	enfado	1
+2018-Es-04744	Con quién pelea Juana?	enfado	0
+2018-Es-02362	Me da un asco que se quiera hacer la hippie todo el tiempo, tremenda fantasma	enfado	3
+2018-Es-06519	No sé por donde ya ira mi madreee	enfado	0
+2018-Es-05001	Que feo,que anden matando gente en la calle,se ah puesto peligroso en Danlí,ya ni se puede salir a pie a comprar a la Pulpería. 😓😔😖	enfado	1
+2018-Es-03594	@MashiRafael Me siento indignada...  Como es posible q Lenin Moreno nós haya llamado ovejuno a quienes votamos x el creyendo en la RC....	enfado	2
+2018-Es-01025	@israelk_18 He visto el vídeo y se ve que la chica lo graba porque está hasta el chirri y que está indignada, la risa no sé dónde está	enfado	1
+2018-Es-02991	@Wolvefang PELEA DE SABLES	enfado	0
+2018-Es-04482	Yo digo que deberían organizarnos una fiesta sorpresa a @Ing_Roger_Pa y a mi el sábado 22 de Julio en Tantima. Coff Coff @lachina_val 😂🎈🎁🎉🍻🍺	enfado	0
+2018-Es-02860	@kjol_huellitas Ahora es aburrida pero con música 🙌	enfado	0
+2018-Es-03008	@_FranciscoB77 Resentido, 👋	enfado	2
+2018-Es-03977	@Marcelitaojeda Por dios hasta cuando??!!! 	enfado	1
+2018-Es-02787	@Blueberry_TRA hermanito te extraño 	enfado	0
+2018-Es-01792	@MisaHeadaches cuenta como insulto mi cena	enfado	1
+2018-Es-05820	Hasta que punto del límite puede llegar una ex resentida? 😂	enfado	1
+2018-Es-00697	@Wertyalord1 @trenesmania @TrensDignesEbre @transportpublic Y más insultos... eres capaz de hablar sin insultar??	enfado	3
+2018-Es-04360	y antes de q me salga algun xboxer enfurecido, no soy sonyer ni xboxer ni nintendero ni nada. Es q me jode porq esta haciendolo todo mejor	enfado	3
+2018-Es-02040	frank se enojo por una boludes y quiere que le pida perdón en la cara, ya, ya estoy yendo a hacer dedo, no, mejor voy corriendo esperame	enfado	1
+2018-Es-05802	Baby a veces me hago la enojada solo porque quiero el sexo de reconciliación.	enfado	0
+2018-Es-04237	@cxpricieux Ofendida me siento.	enfado	2
+2018-Es-01778	Me voy a dormir ofendida, triste, decepcionada y con un día de mierda:(.	enfado	3
+2018-Es-01349	En la pelea, se conoce al soldado; solo en la Voctoria, se conoce al caballero. - Jacinto Benavfnte.	enfado	0
+2018-Es-06572	No hay trago mas amargo que tragarse un nudo atado a tu garganta.	enfado	1
+2018-Es-05389	¿Por qué está Peña en todos los pinches canales? 	enfado	2
+2018-Es-00074	@omardi_cabj jaj tan resentido?	enfado	1
+2018-Es-02851	Hank, el pulpo de Buscando a Dory, le dio su tentáculo/pene a una pulpa que le abandonó. Por eso vive amargado y resentido.	enfado	0
+2018-Es-06528	@NanaBlurl Quien mierda es simone 😡	enfado	2
+2018-Es-04211	Solamente aquel que es demasiado fuerte para perdonar, una ofensa sabe "amar". #RT #FF #amor	enfado	0
+2018-Es-01901	Si es por mí puedes ir sin temor porque a mí ya no me importa nada	enfado	1
+2018-Es-02373	Sin llevarle más nada que un beso, friolento, travieso, amargo y dulzóóón.	enfado	0
+2018-Es-03946	Tanto que se va a tardar en contestar 	enfado	0
+2018-Es-05587	Cuando Me Enojo, Me Enojo Encerio.	enfado	2
+2018-Es-04449	No te olvides: el #ejercicio y la #actividadfísica mejoran el #ánimo, estimula la agilidad mental y alivia la #depresión. #CuidaTuVida	enfado	0
+2018-Es-03425	Mf chau re enojado	enfado	3
+2018-Es-04218	Que incómoda me siento a veces	enfado	0
+2018-Es-04640	okay hablando en serio, es a las 5am..... tendré que poner mi alarma t_t	enfado	0
+2018-Es-05568	@SxrcasticBatman -Derek frunció el ceño al escucharle y no pudo evitar soltar una pequeña carcajada.- ¿Dónde? -Y entonces el moreno bajó >	enfado	0
+2018-Es-00268	@YoongisPillow @JexnJexn Que buen insulto desnutrida mental	enfado	2
+2018-Es-05918	Que nunca te ame de verdad, que rabia me da 🎵	enfado	0
+2018-Es-01829	@_InakiLopez_ Ahora que ETA no existe  se atreven a insultar . Que no calienten mucho a la gente que estamos todos muy hartos.	enfado	3
+2018-Es-06344	Tu clamor pone al diablo a temblar, tu Alabanza lo confunde. #LaAdoraciónADiosEngrandeceLaNación	enfado	0
+2018-Es-05601	Por más que intente soñar contigo, no puedo, más sin embargo un mensaje tuyo bastó para provocar un buen sueño.	enfado	0
+2018-Es-01419	OIGAAA COMO PUEDE VER MIS HISTORIAS DE INSTAGRAM SÍ NO ACEPTÉ LA SOLICITUD DE SEGUIMIENTO 😡	enfado	2
+2018-Es-01854	si me hablan hasta que me duerma no me enojo eh, me aburro	enfado	0
+2018-Es-02382	La única razón por la que me esta gustando insultar es solo para provocarle.	enfado	1
+2018-Es-05056	@nohemidleon JAJAJAJAJ soy la persona menos amargada del 🌎	enfado	0
+2018-Es-06435	10 me enteré un par tuyas, sos peligrosa	enfado	0
+2018-Es-05418	@HS94NV Phineas, no te pongas así. oTESALDRÁPELEA.	enfado	1
+2018-Es-01963	Loca se enojo conmigo pq segun ella lo acababa d conocer y ya le hablaba como si fuera de hace mucho PERO PARALE LOCA	enfado	3
+2018-Es-02827	Pues antes de que el chaval o su madre reaccionara fui hacia estos idiotas MUY ENFADADO y me encaré con ellos diciéndole lo siguiente	enfado	3
+2018-Es-01674	Estoy muy triste pq me dijo que era bien enfadosa jajajaj	enfado	0
+2018-Es-02567	Tanto tiempo esperando el capítulo final de pll para q sea una mierda estoy indignada te odio @PLLTVSeries 😩😩	enfado	3
+2018-Es-04992	@BenetBeca @lareirinha @PPopular Ofender  a un inferior no es ofender	enfado	1
+2018-Es-06747	Quédate con el que no te duren nada tus enojos y berrinches porque te hace reír.	enfado	0
+2018-Es-06031	No voy a entrar a instagram hasta mañana, que depresión loco. Quiero estar ahí, con mis amigos	enfado	0
+2018-Es-01601	@Ivandagu @cmbustamante Es una acusación bastante grave, de la cual no tienes ninguna prueba	enfado	1
+2018-Es-06598	Mae me enoja tener que dormirme enojada.	enfado	3
+2018-Es-00354	@Zend0xTV El bis de furia jajaja lastima que ahora se juega armas T_T	enfado	1
+2018-Es-01374	@MomokaRage Eso es que la habrá dejado un friki y estaba resentida.	enfado	1
+2018-Es-04414	Una maravilla del mundo es beber café hirviendo a esta hora.	enfado	0
+2018-Es-02510	@ElAgussMoree Para no se ni que escribi , esto de ponerme ansiosa no es lo mio	enfado	0
+2018-Es-04899	@FerivRivera Pero una que busca algo bien, ellos solo quieren diversión 	enfado	0
+2018-Es-04767	Me pone de muy mala leche morderme la lengua para hablar bien, sin insultar, y que a mi me llamen cada cosa, con el sobreesfuerzo que hago 😕	enfado	2
+2018-Es-06616	Vamos esta noche a enloquecer 🎶	enfado	0
+2018-Es-02636	@foromemoria @frankyleg1992 Insulto será para vos, Franco ya murió, solo sabéis decir fascistas y de no ser por él seríamos comunistas, 1💩	enfado	2
+2018-Es-01842	si me hablan no me enojo	enfado	0
+2018-Es-06139	@Clauarquera Yo se de uno que no ira finalmente :/	enfado	0
+2018-Es-05498	Entonces: ¿para quién fue la sorpresa? Se pregunta @DeniseMaerker tras revelar que la @SCT_mx estaba avisada del problema en el #PasoExpres	enfado	0
+2018-Es-04699	En estos momentos siento mi cuerpo hirviendo.	enfado	2
+2018-Es-02747	#5HEsTrending Necesito verlas por favor 😭	enfado	0
+2018-Es-06293	Aleksy –Sean Müller x siempre –Justin x siempre –Ex novio de dos días –Indignado y se sale del grupo –La más puta –A veces mamón pero lo amo	enfado	2
+2018-Es-01172	@danigr29 Y la foto como desde mucho antes 😂 aah pero ahí estás ignorando cuando te escribo por jugar de resentida	enfado	1
+2018-Es-02973	@fantomastxiki Todavía sigue rabioso por haber perdido tantos millones con sus empresas de seguridad?	enfado	2
+2018-Es-00791	Coño! He acabado la carrera y aún no he sacado el libro de Física I del coche, ahí sigue decolorándose al sol! #venganza	enfado	1
+2018-Es-01046	No me enojo si alguien me da las buenas noches,ahr	enfado	0
+2018-Es-05018	@SarpY_icerde Pero #Baris va ser un gran personaje desde ahora #Sarp soempre preocupado de su padre #IcerdexMega #NocheDeTeatro 😁	enfado	0
+2018-Es-02907	@cansado2 Jajajaaja No lo habia pensado nunca asi. Ahora estoy indignado !!	enfado	1
+2018-Es-01280	Para que me bloqueas hija de tu pu*a madre	enfado	3
+2018-Es-05132	Tuve gripe por dos días, mi mamá dice que sólo era llanto contenido: le creo. 😢	enfado	0
+2018-Es-03618	¿Habeis visto un dia de furia?. Hoy estoy de ese pelo, solo que no tengo motivos para estarlo. Igual es la edad, yo que se.	enfado	2
+2018-Es-06105	Cuando me enojo pq me duelen muchos los ovarios le grito a mi vieja q pq mierda no me tuvo con pito jajaja	enfado	2
+2018-Es-04608	soy capaz de cualquier cosa, lo que sea con tal de provocar esa sonrisa en tu rostro mi amor.	enfado	0
+2018-Es-03069	Normalmente me hago rechinar los dientes cuando estoy enojado, un día de estos se me va a salir uno.	enfado	1
+2018-Es-04825	Qué rabia cuando hay una tercera persona en la relación.	enfado	3
+2018-Es-06241	Se piensan porque son chorros o amigos de chorros le vas a tener miedo. De tal palo tal astilla. Todos negros cabeza !!!	enfado	2
+2018-Es-05780	Procura nunca salir de tu casa enojado con aquellos que amas, la vida puede cambiar en un segundo, tal vez nunca te despidas.	enfado	0
+2018-Es-02506	@jorgehdz80 Jajajaja son vacaciones amargado💁	enfado	0
+2018-Es-01366	Me enferma estar enojada y que se rían, si me vieran la cara de orto no se reirían.	enfado	3
+2018-Es-03856	Recién levantado y ya enfadado! Muy bien todo . Buenos días	enfado	1
+2018-Es-05705	Mandar a la mierda no es un insulto, es una buena manera de ayudar a cierta gente a encontrar su camino.	enfado	1
+2018-Es-01672	Que bronca que pongan el partido a la hora de la novela 	enfado	3
+2018-Es-00441	@NygmatxcRiddler —Había soltado un gruñido ante esa respuesta, siendo callado por el mismo beso que había comenzado, >>	enfado	0
+2018-Es-01038	Dios yo se qué tu tienes los planes originales pero si son iguales a los míos no me enojo	enfado	0
